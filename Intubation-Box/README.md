@@ -2,11 +2,21 @@
 
 I've done some 3D printing (probably largely because my son started doing it), so when the large [equipment shortages](https://en.wikipedia.org/wiki/Shortages_related_to_the_2019%E2%80%9320_coronavirus_pandemic) happened during COVID-19 I ended up getting involved.  I'd been spending some time at our local [makerspace](https://en.wikipedia.org/wiki/Hackerspace), [HeatSync](https://www.heatsynclabs.org/), and several of them quickly became involved with [MasksForDocs](https://masksfordocs.com/).  While all that spun up, we also had a local request come up on the HeatSync slack.
 
+Oh, and as a side notes [lasers are cool](images/VID_20200402_072807.mp4).
+
 # Intubation boxes
 
 Someone local had a friend that was an emergency room doctor who was asking about making intubation boxes.  They said they had a real need for these, and provided the website for the design: [IntubationBox.com](https://intubationbox.com/).
 
 Now, HeatSync has a laser I've been doing some work with, so I recognized we could probably cut these pretty easily.  After a quick internal discussion, myself and one other person (shout out to Kyle) agreed to try.  Kyle ordered the acrylic adhesive and I contact [Port Plastics](http://www.portplastics.com).  It took us a few days to get the material, but then we were ready to go.
+
+# Materials needed
+
+*  1 4'x4' (1220mmx2440mm) sheet of 4.5mm acrylic (see below for more details)
+*  Weld-On 4 acrylic adhesive with applicators
+*  2" wide masking tape
+*  Paper towels
+*  Laser 
 
 # Design
 
@@ -58,6 +68,33 @@ Now is time to modify the SVG.  You need to add the arm holes and cut off one si
 3. Create a paper "score" mark on all of these pieces.  In order to glue these all together you need to remove about an 3cm of paper from the edge so that it's not soaking up the adhesive.  Now, you can do that by hand, but you have a laser right there, so just try to figure out a setting that cuts the paper but does not score the acrylic.  Good luck with that.  
 4. Ok, it's not on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
 
+![Version 1 box problems](images/finished-box-v1.jpg|width=100)
 
+# Assembly
 
+Here is what has worked for us.  Could be revised.  Also, it's late and I'm tired, so I might get something wrong.
 
+## Steps
+
+Ok, so now you have it all cut out, and the paper removed from one side. 
+
+*Note*: Ok, you _might_ be able to do this with one person, I'd recommend at least two.
+
+![Box layed out](images/box-layed-out.png|width=100)
+
+1. Lay out all the pieces for the box, layed flat.
+2. Apply a border of the masking tape to the "outside" (or the side you didn't have scored) of the "top".
+3. Place that top with the paper down and the tape up.
+4. Now take the sided pieces and fit them, one at a time, onto the top as if they were assembled and press them into the tape.  Then lay them down so you now have a 'tape hinge'.
+5. Repeat for all sides.
+6. Apply weld-on to the "front" piece and the top first and get it into place.  Hold for 60 seconds.
+7. Work your way around from least convenient (hardest) to easiest.  Reason you do this is because it will become more complex as you go, so doing the hard parts first makes it go smoother.
+
+## Things to do between steps
+1. Wipe out the excess from the corners.
+2. Write the great American novel.
+3. Hold the corners and edges in tight for 60 seconds.
+
+Finally...
+
+1.  Start the paper being peeled for the health care workers to unveil them.
