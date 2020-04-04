@@ -1,0 +1,63 @@
+# Introduction
+
+I've done some 3D printing (probably largely because my son started doing it), so when the large [equipment shortages](https://en.wikipedia.org/wiki/Shortages_related_to_the_2019%E2%80%9320_coronavirus_pandemic) happened during COVID-19 I ended up getting involved.  I'd been spending some time at our local [makerspace](https://en.wikipedia.org/wiki/Hackerspace), [HeatSync](https://www.heatsynclabs.org/), and several of them quickly became involved with (MasksForDocs)(https://masksfordocs.com/).  While all that spun up, we also had a local request come up on the HeatSync slack.
+
+# Intubation boxes
+
+Someone local had a friend that was an emergency room doctor who was asking about making intubation boxes.  They said they had a real need for these, and provided the website for the design: [IntubationBox.com](https://intubationbox.com/).
+
+Now, HeatSync has a laser I've been doing some work with, so I recognized we could probably cut these pretty easily.  After a quick internal discussion, myself and one other person (shout out to Kyle) agreed to try.  Kyle ordered the acrylic adhesive and I contact [Port Plastics](http://www.portplastics.com).  It took us a few days to get the material, but then we were ready to go.
+
+# Design
+
+The design of the current box is interesting.  First, it's a strange mish-mash of metric and imperial measurements.  But more importantly for this discussion, the design relies on straight cut sides and then a dado in the top to accept them where you can glue.
+
+In all honesty, I just didn't figure we had the techical skills to pull that off.  The idea of getting it square, figuring out how to cut a dado in acrylic of the right dimensions, all seemed like it was outside of what we were capable of executing.  But, what I did think we could execute was one that used [finger joints](https://en.wikipedia.org/wiki/Finger_joint).  So, to create that all I need is a box of the correct dimensions that I can edit, and now we can create the cut files, cut it and glue it.
+
+The goal of the rest of this documentation isn't actually to document the details of how I did it, but to provide you with some of our learnings so that if you need to make your own you can skip through a few of the problems we have worked through.
+
+# Generating the box
+
+This is simple enough.  [Google "laser cut box generator")[https://www.google.com/search?client=firefox-b-1-d&q=laser+cut+box+generator] and take the top hit.  For me that was [MakerCase](https://en.makercase.com/#/).  Here is what you need to know:
+
+* Open box (it will show without a top, but that will be your bottom)
+* Dimensions:  I just put in the ones from the documentation (or at least close)
+  * Width: 21" 
+  * Height: 19.5"
+  * Depth: 15.75" (which is exactly 400mm, notice the random sizes)
+* Material Thickness:  The document calls for 3/16" which is .1875", but my acrylic place had .177" (i.e. 4.5mm).  So, that's what I put in.
+
+Download the SVG.  I've provided the one I generated [here](images/box.svg).
+
+![Downloaded box diagram](images/box.png)
+
+# Design the new Intubator box
+
+I'm not going to go into all the details of how you would create this box.  I used Inkscape to edit the SVG.  The good news with Inkscape is that it's free.  The bad news is that it's more than a little bit clunky.  To do this, all you really have to do is draw two circles of the right size on one side, and then chop the other side down a bit.  Simple enough, right?
+
+## Relabel the diagram
+The first thing that I think that helps is to relabel everything to keep it straight in your mind.  Remember, we printed a box with an open top, and now we want one with an open bottom and two sides that are different. I think of the "front" as the part that is open and the "back" as the part with the holes that the doctor will stand behind.  I actually changed those labels as I worked so I wouldn't get confused.
+
+Here I've changed Bottom to Top, and then flipped and moved front and back to represent what sides I think of them as.  *Foreshadowing*: I've actually corrected a mistake I made when I did this, but we'll go into that in a minute. 
+
+![Marked up box diagram](images/box-markedup.png)  [SVG](images/box-markedup.svg)
+
+## Modify the SVG
+
+Now is time to modify the SVG.  You need to add the arm holes and cut off one side of the front to make it the right size.  Again, I'm not going to go into the details of how to do that, but here are the resulting end files.
+
+* [SVG](images/20200402-06-jot-box.svg)
+* [DXF](20200402-06-jot-box)
+
+## Lessons
+
+![Lessons learned](images/box.png)
+
+1. Cut off the correct side of the front.  In my first version I had both front and back up towards the middle of the diagram.  The result was I cut off the fingered portion of the front, and endedup with two smooth sides.  Oops.  Don't do that.  You want to make sure you have a fingered side and a flat side.
+2. On the sides I forgot to remove one of the fingers.  It's visible in a picture I'm sure I'll add later, but because the front is partial you don't need one of the fingers.
+3. Create a paper "score" mark on all of these pieces.  In order to glue these all together you need to remove about an 3cm of paper from the edge so that it's not soaking up the adhesive.  Now, you can do that by hand, but you have a laser right there, so just try to figure out a setting that cuts the paper but does not score the acrylic.  Good luck with that.  
+4. Ok, it's not on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
+
+
+
+
