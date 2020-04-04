@@ -13,10 +13,14 @@ Now, HeatSync has a laser I've been doing some work with, so I recognized we cou
 # Materials needed
 
 *  1 4'x4' (1220mmx2440mm) sheet of 4.5mm acrylic (see below for more details)
-*  Weld-On 4 acrylic adhesive with applicators
+*  [Weld-On 4](https://smile.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8/ref=sr_1_1?dchild=1&keywords=weld-on+4&qid=1586010116&sr=8-1) acrylic adhesive with applicators
+  * Ok, this is what we used.  I'm not sure it's the best for this application.  It's extremely liquid (same viscosity as water) so you're definitely going to want to use something like [these applicators](https://smile.amazon.com/Applicator-Bottle-Stainless-Steel-Needle/dp/B00BNI6TOE/ref=sr_1_7?dchild=1&keywords=weld-on+4+applicator&qid=1586010218&sr=8-7).
+  * You might be better off with something more viscous.  I'd probably try [Weld-On 16](https://smile.amazon.com/SCIGRIP-Acrylic-Cement-Low-VOC-Medium/dp/B005ZH31W2/ref=sr_1_1?crid=25V8A1S5D4NVI&dchild=1&keywords=weld-on+16+acrylic+cement&qid=1586010085&sprefix=weld-on+16+a%2Caps%2C239&sr=8-1).
 *  2" wide masking tape
 *  Paper towels
 *  Laser 
+
+Total cost:  ~$55 per box.  It's just over $50 for the acrylic and then another $5 is misc supplies.  Plus, obviously, you already need access to a laser.  
 
 # Design
 
@@ -66,7 +70,7 @@ Now is time to modify the SVG.  You need to add the arm holes and cut off one si
 1. Cut off the correct side of the front.  In my first version I had both front and back up towards the middle of the diagram.  The result was I cut off the fingered portion of the front, and endedup with two smooth sides.  Oops.  Don't do that.  You want to make sure you have a fingered side and a flat side.
 2. On the sides I forgot to remove one of the fingers.  It's visible in a picture I'm sure I'll add later, but because the front is partial you don't need one of the fingers.
 3. Create a paper "score" mark on all of these pieces.  In order to glue these all together you need to remove about an 3cm of paper from the edge so that it's not soaking up the adhesive.  Now, you can do that by hand, but you have a laser right there, so just try to figure out a setting that cuts the paper but does not score the acrylic.  Good luck with that.  
-4. Ok, it's not on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
+4. Ok, it's not its own number on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
 
 ![Version 1 box problems](images/finished-box-v1.jpg)
 
