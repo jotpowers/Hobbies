@@ -68,7 +68,7 @@ Now is time to modify the SVG.  You need to add the arm holes and cut off one si
 3. Create a paper "score" mark on all of these pieces.  In order to glue these all together you need to remove about an 3cm of paper from the edge so that it's not soaking up the adhesive.  Now, you can do that by hand, but you have a laser right there, so just try to figure out a setting that cuts the paper but does not score the acrylic.  Good luck with that.  
 4. Ok, it's not on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
 
-![Version 1 box problems](images/finished-box-v1.jpg|width=100)
+![Version 1 box problems](images/finished-box-v1.jpg)
 
 # Assembly
 
@@ -80,7 +80,7 @@ Ok, so now you have it all cut out, and the paper removed from one side.
 
 *Note*: Ok, you _might_ be able to do this with one person, I'd recommend at least two.
 
-![Box layed out](images/box-layed-out.png|width=100)
+![Box layed out](images/box-layed-out.png)
 
 1. Lay out all the pieces for the box, layed flat.
 2. Apply a border of the masking tape to the "outside" (or the side you didn't have scored) of the "top".
