@@ -18,7 +18,7 @@ The goal of the rest of this documentation isn't actually to document the detail
 
 # Generating the box
 
-This is simple enough.  [Google "laser cut box generator")[https://www.google.com/search?client=firefox-b-1-d&q=laser+cut+box+generator] and take the top hit.  For me that was [MakerCase](https://en.makercase.com/#/).  Here is what you need to know:
+This is simple enough.  [Google "laser cut box generator"](https://www.google.com/search?&q=laser+cut+box+generator) and take the top hit.  For me that was [MakerCase](https://en.makercase.com/#/).  Here is what you need to know:
 
 * Open box (it will show without a top, but that will be your bottom)
 * Dimensions:  I just put in the ones from the documentation (or at least close)
