@@ -51,7 +51,7 @@ Now is time to modify the SVG.  You need to add the arm holes and cut off one si
 
 ## Lessons
 
-![Lessons learned](images/box.png)
+![Lessons learned](images/box-cut-diagram.png)
 
 1. Cut off the correct side of the front.  In my first version I had both front and back up towards the middle of the diagram.  The result was I cut off the fingered portion of the front, and endedup with two smooth sides.  Oops.  Don't do that.  You want to make sure you have a fingered side and a flat side.
 2. On the sides I forgot to remove one of the fingers.  It's visible in a picture I'm sure I'll add later, but because the front is partial you don't need one of the fingers.
