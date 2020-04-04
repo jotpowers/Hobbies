@@ -80,7 +80,7 @@ Ok, so now you have it all cut out, and the paper removed from one side.
 
 *Note*: Ok, you _might_ be able to do this with one person, I'd recommend at least two.
 
-![Box layed out](images/box-layed-out.png)
+![Box layed out](images/box-layed-out.jpg)
 
 1. Lay out all the pieces for the box, layed flat.
 2. Apply a border of the masking tape to the "outside" (or the side you didn't have scored) of the "top".
