@@ -102,3 +102,10 @@ Ok, so now you have it all cut out, and the paper removed from one side.
 Finally...
 
 1.  Start the paper being peeled for the health care workers to unveil them.
+
+# What I would do next time
+
+*  Build a jig for the bottom.  That would allow it to be really snug and repeatable and perhaps could be assembled by one person.  I'd probably get a thin piece of plywood and laser cut a square to the exact size and then dry fit everything in there.
+*  Build some sort of jigs for the sides.  This would probably be a square plywood "ring" to hold it in.
+*  Use the needle applicators on the Weld-on
+*  Probably scrap the scoring of the paper and just remove all the paper before the assembly and gluing.  Sure, they might get scratched in transit, but they're going to get scratched when they're used anyways.
