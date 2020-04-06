@@ -103,6 +103,10 @@ Finally...
 
 1.  Start the paper being peeled for the health care workers to unveil them.
 
+Here is the picture of our four prototypes complete.
+
+![Four completed boxes](images/20200404-4-complete.jpg)
+
 # What I would do next time
 
 *  Build a jig for the bottom.  That would allow it to be really snug and repeatable and perhaps could be assembled by one person.  I'd probably get a thin piece of plywood and laser cut a square to the exact size and then dry fit everything in there.
