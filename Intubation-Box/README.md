@@ -113,3 +113,7 @@ Here is the picture of our four prototypes complete.
 *  Build some sort of jigs for the sides.  This would probably be a square plywood "ring" to hold it in.
 *  Use the needle applicators on the Weld-on
 *  Probably scrap the scoring of the paper and just remove all the paper before the assembly and gluing.  Sure, they might get scratched in transit, but they're going to get scratched when they're used anyways.
+
+# Additional links
+
+* [New England Journal of Medicine: Barrier Enclosure during Endotracheal Intubation](https://www.nejm.org/doi/full/10.1056/NEJMc2007589)
