@@ -14,11 +14,11 @@ Because of COVID, all I wear every day is short-sleeved tshirts and shorts.  Yes
 
 But.
 
-# I don't want to just wear the same color shirt day after day.
-# I don't want to wear the same "themed" shirt day after day.
-# When my lovely wife does the laundry, she has the audacity to wash colors, darks and lights separately.
-  # As a result the shirts get clumped together by colors
-# I want to avoid decision fatigue and make it so I can just grab the next shirt, without violating 1 and 2.
+1. I don't want to just wear the same color shirt day after day.
+2. I don't want to wear the same "themed" shirt day after day.
+3. When my lovely wife does the laundry, she has the audacity to wash colors, darks and lights separately.
+  * As a result the shirts get clumped together by colors
+4. I want to avoid decision fatigue and make it so I can just grab the next shirt, without violating 1 and 2.
 
 
 # Solution
