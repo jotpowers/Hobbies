@@ -17,7 +17,7 @@ But.
 1. I don't want to just wear the same color shirt day after day.
 2. I don't want to wear the same "themed" shirt day after day.
 3. When my lovely wife does the laundry, she has the audacity to wash colors, darks and lights separately.
-  * As a result the shirts get clumped together by colors
+  1. As a result the shirts get clumped together by colors
 4. I want to avoid decision fatigue and make it so I can just grab the next shirt, without violating 1 and 2.
 
 
@@ -37,7 +37,6 @@ These breakdown into a few broad categories that made sense to me.
 * Running:  (non-tech) Shirts I have from running events.  Primarily [Ragnar Trails](http://www.runragnar.com) and [Aravaipa](https://www.aravaiparunning.com/).
 * Ohack:  [Opportunity Hack](https://www.aravaiparunning.com/) volunteer/hacker shirts.  I also include my capstone shirt in that.  These are my most colorful.
 * Fatty:  I have several standard shirts and several 100 Miles to Nowhere shirts from [Fat Cyclist](http://fatcyclist.com/).  I'm not sure where he's writing anymore, but they're comfortable and the designs are great.  Mostly black/dark grey.
-hrack
 * Other:  None of the above, but small numbers.  
 
 ### Colors
