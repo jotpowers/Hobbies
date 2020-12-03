@@ -2,7 +2,7 @@
 
 I have a problem.  Ok, I have several, but in this context, there is one major one.  
 
-I've never had a problem I'm interested in solving that I can't solve faster in [Perl](http://www.perl.org) than in [Python](http://www.python.org), because I learned Perl back in 19_cough__cough_ and haven't needed to learn Python.
+I've never had a problem I'm interested in solving that I can't solve faster in [Perl](http://www.perl.org) than in [Python](http://www.python.org), because I learned Perl back in 19 _cough_ _cough_ and haven't needed to learn Python.
 
 But then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
 
