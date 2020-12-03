@@ -4,15 +4,15 @@ I have a problem.  Ok, I have several, but in this context, there is one major o
 
 I've never had a problem I'm interested in solving that I can't solve faster in [Perl](http://www.perl.org) than in [Python](http://www.python.org), because I learned Perl back in 19 _cough_ _cough_ and haven't needed to learn Python.
 
-But then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
+Then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
 
 # Problem Statement
 
 Ok, straight up, this is incredibly geeky.  Probably over the top.  I get that.  Just go with me.
 
-Because of COVID, all I wear every day is short-sleeved tshirts and shorts.  Yes, I live in Arizona, so it makes more sense.  
+Because of COVID all I wear, every day, is short-sleeved tshirts and shorts.  Yes, I live in Arizona, so it makes more sense.  
 
-But.
+But:
 
 1. I don't want to just wear the same color shirt day after day.
 2. I don't want to wear the same "themed" shirt day after day.
@@ -20,10 +20,11 @@ But.
   1. As a result the shirts get clumped together by colors
 4. I want to avoid decision fatigue and make it so I can just grab the next shirt, without violating 1 and 2.
 
-
 # Solution
 
 Write a python program that gives me an ordered list of shirts where neither colors nor themes repeat themselves.  Then every 30 days or so I just follow the output and order them, and I'm good for a month.
+
+Note, as I point out in the code, I suspect there is an optimized solution to this using set/matrix math.  So I think I have a math problem masquerading as a programming challenge.  My quick Google searches didn't provide me a simple answer, so away I went.
 
 ## A note on colors and themes
 
@@ -54,7 +55,9 @@ Breaking out each color separately didn't really do what I wanted.  I could have
 
 So, I decided to start with an IDE, and that was [PyCharm](https://www.jetbrains.com/pycharm/).  Works great. But.  It started up a venv with python 2.7.  Even I knew python 2 was EOLd, but I went with it for the first version.  Then I had to get pycharm to start a python3 venv and port my code, and that's what I did.  
 
-If anyone is looking at those code trying to judge my software dev capabilities and needs a reason to not hire me, I will refer to these as:
+If anyone is looking at this code trying to judge my software dev capabilities and needs a reason to not hire me, I will refer to these as:
 
 * [Exhibit A](shirt3.py)
 * [Exhibit B](sort.py)
+
+
