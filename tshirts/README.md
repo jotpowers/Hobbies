@@ -53,7 +53,7 @@ Breaking out each color separately didn't really do what I wanted.  I could have
 
 # Code
 
-So, I decided to start with an IDE, and that was [PyCharm](https://www.jetbrains.com/pycharm/).  Works great. But.  It started up a venv with python 2.7.  Even I knew python 2 was EOLd, but I went with it for the first version.  Then I had to get pycharm to start a python3 venv and port my code, and that's what I did.  
+So, I decided to start with an IDE, and that was [PyCharm](https://www.jetbrains.com/pycharm/).  Works great. _But_ it started up a venv with python 2.7.  Even I knew python 2 was EOLd, but I went with it for the first version.  Then I had to get pycharm to start a python3 venv and port my code, and that's what I did.  
 
 If anyone is looking at this code trying to judge my software dev capabilities and needs a reason to not hire me, I will refer to these as:
 
