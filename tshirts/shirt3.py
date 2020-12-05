@@ -114,6 +114,9 @@ def matrix_shirts(shirt_list):
 # Ok, so now we have an array of shirts that are sorted, and all the crap in tshirt.numpy that we want to put into
 # an array to allow us to iterate
 
+# Also, I think there is a bug in here that occasionally allows for duplicates.  I'm not sure I have it in me to
+# walk my own logic to figure out why.
+
 
 def array_shirts(shirt_array):
     remaining_shirts = []
