@@ -188,7 +188,7 @@ def insert_shirt(finished_shirts, color, theme):
 
 
 # Press the green button in the gutter to run the script, because this is what pycharms tells you.  :P
-# doesn't work for me because I haven't bothered to figure out how to get numpy into venv
+
 if __name__ == '__main__':
 
     themes = []
