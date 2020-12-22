@@ -1,33 +1,18 @@
 # Ok people, don't get too picky.  This is my first python program from scratch, so I'm sure there is a hot mess of
 # stupid in here, but a lot of learning.
 
+# The end result is supposed to be an ordered list of my tshirts where no shirt is adjacent to a similar
+# shirt based on either theme or color
+
 import numpy as np
 import random
 
 random.seed()
 
 DEBUG = 0
+SHIRT_FILE = 'shirts.csv'
 
 # Here is a list of my shirts
-# Colors
-colors = ["Black/Grey", "Light Grey", "ROP", "Blue", "Green", "Other"]
-ncolors = len(colors)
-
-# Ok, listen.  I know having these on one line isn't the python way.  My syntax is pretty clean otherwise, but this
-# is just too friggin simple and readable, so deal with it.
-if DEBUG == 1: print(ncolors)
-# Themes
-themes = ["Company", "Run", "Ohack", "Fatty", "Other"]
-nthemes = len(themes)
-if DEBUG == 1: print(nthemes)
-
-# Now, a visualization of the matrix
-# blank		 Black/Grey  Light Grey    ROP    Blue   Green   Other
-# Company
-# Run
-# Ohack
-# Fatty
-# Other
 
 # Translate the array into actual counts of shirts per category
 # Here is what I suspect, but do not know:
@@ -40,26 +25,75 @@ if DEBUG == 1: print(nthemes)
 # One dimensional array:  initial is on the X axis
 # two dimensional array:  initial is on the Y axis and second is on the X axis
 # Huh?  Maybe just thinking about it wrong.
+# This was the original setup, before I got the file reading working
 tshirt = np.array([[0, 1, 0, 5, 4], [1, 2, 0, 0, 0], [1, 2, 3, 1, 0], [3, 0, 0, 0, 1], [0, 1, 3, 0, 0],
                    [0, 0, 0, 0, 2]])
+if DEBUG == 1: print("Prior: tshirts is ", tshirt)
 
-shirts = tshirt.sum()
+# Ok, listen.  I know having these on one line isn't the python way.  My syntax is pretty clean otherwise, but this
+# is just too friggin simple and readable, so deal with it
 if DEBUG == 1: print(shirts)
-shirt_list = []
 
-# Subroutine to print arrays for me.  Probably a python builtin for this.
+# File should look like:
+# HEADER, color, company, run, ohack, fatty, other
+# black/grey, 0, 1, 0, 5, 4
+# light grey, 1, 2, 0, 0, 0
+# ROP, 1, 2, 3, 1, 0
+# blue, 3, 0, 0, 0, 1
+# green, 0, 1, 3, 0, 0
+# other, 0, 0, 0, 0, 2
+
+# If I get adventurous I could put this into a google sheet and work on figuring out how to read it all
+# from an API.  :)
 
 
-def print_array(label, array):
+def read_shirts(shirt_file, lthemes, lcolors):  # ltheme = local theme, lcolors = local colors
+    with open(shirt_file, 'r') as file:
+        for line in file:
+            new_list = []  # I'm going to need a temporary list that gets wiped every time
+            line = line.strip('\n')
+            if DEBUG == 1: print("|", line, "|")
+            # Need to pull out the header row
+            line_list = line.split(", ")
+            if DEBUG == 1: print("line_list = ", line_list)
+            if line_list[0] == "HEADER":
+                line_list.pop(0)    # get rid of header element
+                line_list.pop(0)    # get rid of the color portion that is just for readability
+                lthemes = line_list
+                if DEBUG == 1: print("lthemes = ", lthemes)
+            else:   # Now we have an element starting with a color
+                lcolors.append(line_list.pop(0))  # pop the color off and add it to our color list
+                if DEBUG == 1: print("List of colors is", line_list)
+
+                # The line list has the elements as strings.  I need them to be ints so put them in my
+                # temporary list as ints.
+                for color in line_list:
+                    new_list.append(int(color))
+                if DEBUG == 1: print("new list of colors is", new_list)
+                try:  # let's see if we haven't defined this. If it is, add
+                    tshirt = np.append(tshirt, [new_list], axis=0)
+                    if DEBUG == 1: print("tshirt array added and now is ", tshirt, line_list)
+                except NameError:   # otherwise we initialize it
+                    tshirt = np.array([new_list])
+                    if DEBUG == 1: print("first tshirt assignment = ", tshirt)
+    if DEBUG == 1: print("tshirt array finishes as ", tshirt)
+    if DEBUG == 1: print("colors finish as", lcolors)
+    if DEBUG == 1: print("themes finish as", lthemes)
+
+    file.close()    # Good idea to cleanup
+    return tshirt, lthemes, lcolors
+
+
+def print_array(label, array):  # Subroutine to print arrays for me.  Probably a python builtin for this.
     for i in range(0, len(array) - 1):
         print(label, array[i])
     return 1
 
+
 # Ok, so this where I do the initial sort of dealing with the data as a matrix and things start to get funny
-
-
-def matrix_shirts(shirt_list):
+def matrix_shirts(shirt_matrix):
     shirt = 0
+    shirt_list = []
 
     # Probably not the first hack.  Use counters to prevent infinite looping.
     max_counter = 50
@@ -87,12 +121,12 @@ def matrix_shirts(shirt_list):
                     random.seed()
                     color = random.randint(0, ncolors - 1)
                     theme = random.randint(0, nthemes - 1)
-                if tshirt[color, theme] > 0 and color != lastcolor and theme != lasttheme:
+                if shirt_matrix[color, theme] > 0 and color != lastcolor and theme != lasttheme:
                     counter += 1
                     # Move this to putting in an array so we can try to slot other shirts in at the end
                     if DEBUG == 1: print("Success:", colors[color], themes[theme], shirt)
                     shirt_list.append([colors[color], themes[theme]])
-                    tshirt[color, theme] -= 1
+                    shirt_matrix[color, theme] -= 1
                     lastcolor = color
                     lasttheme = theme
                     shirt += 1
@@ -109,76 +143,91 @@ def matrix_shirts(shirt_list):
         if color >= ncolors:
             color = 0
         if DEBUG == 1: print("color increment", color)
-    return shirts - shirt
+
+    # Return the number of shirts I found
+    return shirt_list, shirt_matrix
 
 # Ok, so now we have an array of shirts that are sorted, and all the crap in tshirt.numpy that we want to put into
 # an array to allow us to iterate
 
-# Also, I think there is a bug in here that occasionally allows for duplicates.  I'm not sure I have it in me to
-# walk my own logic to figure out why.
 
-
-def array_shirts(shirt_array):
-    remaining_shirts = []
+def matrix_to_array(sorted_shirts):
+    list_of_shirts = []
 
     # build an array of the remaining shirts
     for color in range(0, ncolors):
         for theme in range(0, nthemes):
-            if tshirt[color, theme] > 0:
-                for f in range(0, tshirt[color, theme]):  # there could be a bunch of them
-                    remaining_shirts.append([colors[color], themes[theme]])
+            if sorted_shirts[color, theme] > 0:
+                for f in range(0, sorted_shirts[color, theme]):  # there could be a bunch of them
+                    list_of_shirts.append([colors[color], themes[theme]])
 
-    # Print that remaining array out
-    if DEBUG == 1: print_array("remaining", remaining_shirts)
+    return list_of_shirts
 
-    # Look at what we already have
-    if DEBUG == 1: print("length", len(shirt_array))
-    if DEBUG == 1: print_array("existing", shirt_array)
 
-    if DEBUG == 1: print("Starting the sorting")
+# This takes the array of sorted shirts, and a single new shirt color/theme combination and sees if it can
+# stash it into the array
 
-    # Need to make sure we know before and after of our shirts
-    last_color = "undef"
-    last_theme = "undef"
-    existing = 0
-    # It would be more efficient to swap existing and remaining in most cases, but I wrote it this way, so...
-    while existing < len(shirt_array):
-        color = shirt_array[existing][0]
-        theme = shirt_array[existing][1]
-        if DEBUG == 1: print("Existing", color, theme)
-        # first time through we can just insert.  after that, need to be smarter
-        for remaining in range(0, len(remaining_shirts) - 1):
-            remaining_color = remaining_shirts[remaining][0]
-            remaining_theme = remaining_shirts[remaining][1]
-            if DEBUG == 1: print("\tRemaining", remaining_color, remaining_theme, "versus", color, theme)
-            if remaining_color != color and remaining_theme != theme:
-                if DEBUG == 1: print("\t\tinserting these", remaining_color, remaining_theme, "in front of ", color,
-                                     theme, "and last is ", last_color, last_theme)
-                shirt_array.insert(existing, [remaining_color, remaining_theme])
-                remaining_shirts.remove([remaining_color, remaining_theme])
-                existing += 1
-                break
-            else:
-                existing += 1
-        last_color = color
-        last_theme = theme
-        existing += 1
+def insert_shirt(finished_shirts, color, theme):
 
-    print("Final List:")
-    print_array("Final", shirt_array)
+    prev_color = "undef"
+    prev_theme = "undef"
 
-    return 1
+    if DEBUG > 0: print_array("Insert shirt started with", finished_shirts)
+    for shirt in range(0, len(finished_shirts)):
+        if DEBUG > 0: print("shirt number:", shirt)
+        if color != prev_color and theme != prev_theme:
+            if finished_shirts[shirt][0] != color and finished_shirts[shirt][1] != theme:
+                if DEBUG > 0: print(prev_color, prev_theme, '<-', color, theme, '->',
+                                    finished_shirts[shirt][0],  finished_shirts[shirt][1])
+                finished_shirts.insert(shirt, [color, theme])
+                if DEBUG > 0: print_array("Insert shirt finished with", finished_shirts)
+                return 1, finished_shirts
+        prev_color = finished_shirts[shirt][0]
+        prev_theme = finished_shirts[shirt][1]
+    return 0, finished_shirts
 
 
 # Press the green button in the gutter to run the script, because this is what pycharms tells you.  :P
 # doesn't work for me because I haven't bothered to figure out how to get numpy into venv
 if __name__ == '__main__':
 
-    # do the matrix analysis of the shirts
-    matrix_return = matrix_shirts(shirt_list)
-    # if there are shirts left (hint, there probably will be)
-    if matrix_return > 0:
-        if DEBUG == 1: print("Had shirts remaining", matrix_return)
-        array_shirts(shirt_list)  # then array sort them
-    else:
-        if DEBUG == 1: print("Guess we got them all", matrix_returns)
+    themes = []
+    colors = []
+    sorted_shirt_list = []
+    (tshirt, themes, colors) = read_shirts(SHIRT_FILE, themes, colors)
+    shirts = tshirt.sum()
+    more_shirts = 0
+
+    print("Total shirts we started with ", shirts)
+
+    if DEBUG == 1: print("Main: tshirts is ", tshirt)
+    if DEBUG == 1: print("Main: themes are ", themes)
+    if DEBUG == 1: print("Main: colors are ", colors)
+    ncolors = len(colors)
+    nthemes = len(themes)
+    if DEBUG == 1: print(ncolors)
+    if DEBUG == 1: print(nthemes)
+
+    # do the matrix analysis of the shirts, pass in empty array
+    # ok, I think this is wrong.  I should pass in the matrix and return the sorted_shirt_list
+    (sorted_shirt_list, tshirt) = matrix_shirts(tshirt)
+    num_sorted = len(sorted_shirt_list) - 1
+    if DEBUG > 0: print("Matrix took care of", num_sorted, "shirts")
+    if DEBUG > 0: print_array("From matrix", sorted_shirt_list)
+
+    if (shirts - num_sorted) > 0:
+        # if there are shirts left (hint, there probably will be), turn those into an array
+        remaining_shirts = matrix_to_array(tshirt)
+        if DEBUG > 0: print_array("Left over", remaining_shirts)
+
+        for rshirt in range(0, len(remaining_shirts)):
+            single_shirt = remaining_shirts.pop()
+            shirt_color = single_shirt[0]
+            shirt_theme = single_shirt[1]
+            if DEBUG > 0: print("Shirt to fix is", shirt_color, shirt_theme)
+            (retval, sorted_shirt_list) = insert_shirt(sorted_shirt_list, shirt_color, shirt_theme)
+
+            if retval == 0:
+                print("We failed")
+
+    print_array("Final", sorted_shirt_list)
