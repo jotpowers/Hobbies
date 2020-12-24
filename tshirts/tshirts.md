@@ -65,5 +65,6 @@ If anyone is looking at this code trying to judge my software dev capabilities a
 
 * [Exhibit A](https://github.com/jotpowers/Hobbies/blob/master/tshirts/shirt3.py)
 * [Exhibit B](https://github.com/jotpowers/Hobbies/blob/master/tshirts/sort.py
+* [Shirt CSV file](https://github.com/jotpowers/Hobbies/blob/master/tshirts/shirts.csv)
 
 
