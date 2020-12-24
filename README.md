@@ -1,7 +1,7 @@
 ---
 id: hobby-overview
 title: Overview 
-sidebar_label: overview
+sidebar_label: Overview
 ---
 
 # Hobbies

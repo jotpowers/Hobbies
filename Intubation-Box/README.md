@@ -1,3 +1,9 @@
+---
+id: intubation 
+title: Intubation Box
+sidebar_label: Intubation Box
+---
+
 # Introduction
 
 I've done some 3D printing (probably largely because my son started doing it), so when the large [equipment shortages](https://en.wikipedia.org/wiki/Shortages_related_to_the_2019%E2%80%9320_coronavirus_pandemic) happened during COVID-19 I ended up getting involved.  I'd been spending some time at our local [makerspace](https://en.wikipedia.org/wiki/Hackerspace), [HeatSync](https://www.heatsynclabs.org/), and several of them quickly became involved with [MasksForDocs](https://masksfordocs.com/).  While all that spun up, we also had a local request come up on the HeatSync slack.
