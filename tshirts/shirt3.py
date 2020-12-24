@@ -173,10 +173,10 @@ def insert_shirt(finished_shirts, color, theme):
 
     if DEBUG > 5: print_array("Insert shirt started with", finished_shirts)
     for shirt in range(0, len(finished_shirts)):
-        if DEBUG > 0: print("shirt number:", shirt)
+        if DEBUG > 1: print("shirt number:", shirt)
         if color != prev_color and theme != prev_theme:
             if finished_shirts[shirt][0] != color and finished_shirts[shirt][1] != theme:
-                if DEBUG > 0: print(prev_color, prev_theme, '<-', color, theme, '->',
+                if DEBUG > 1: print(prev_color, prev_theme, '<-', color, theme, '->',
                                     finished_shirts[shirt][0],  finished_shirts[shirt][1])
                 finished_shirts.insert(shirt, [color, theme])
                 if DEBUG > 5: print_array("Insert shirt finished with", finished_shirts)
