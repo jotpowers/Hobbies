@@ -1,3 +1,9 @@
+---
+id: tshirts 
+title: Tshirt Sorter
+sidebar_label:  Tshirt Sorter
+---
+
 # Introduction
 
 I have a problem.  Ok, I have several, but in this context, there is one major one.  
