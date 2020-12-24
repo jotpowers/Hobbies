@@ -64,7 +64,7 @@ So, I decided to start with an IDE, and that was [PyCharm](https://www.jetbrains
 If anyone is looking at this code trying to judge my software dev capabilities and needs a reason to not hire me, I will refer to these as:
 
 * [Exhibit A](https://github.com/jotpowers/Hobbies/blob/master/tshirts/shirt3.py)
-* [Exhibit B](https://github.com/jotpowers/Hobbies/blob/master/tshirts/sort.py
+* [Exhibit B](https://github.com/jotpowers/Hobbies/blob/master/tshirts/sort.py)
 * [Shirt CSV file](https://github.com/jotpowers/Hobbies/blob/master/tshirts/shirts.csv)
 
 
