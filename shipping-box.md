@@ -8,6 +8,8 @@ I decided I wanted to be able to have a "pizza box" style shipping box.  Ideally
 
 ![Finished box with name badge](assets/small-size-box.png)
 
+> *This is the box with my [Light Up Name Badge](name-badge.md) packaged up in it.  The next thing I need to document.*
+
 Now, best case scenario a pattern already existed and I could just use that, but I really searched and couldn't find it.  So, here are my design goals:
 
 1.  It needs to be parametric, which is to say, I can just change the inner dimensions for whatever I want to ship and the box changes.
