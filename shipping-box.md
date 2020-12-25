@@ -26,7 +26,7 @@ Here is the box in Fusion.
 
 ![Lid open](assets/shipping-box-open-1.png)
 
-I've also unfolded it a bit more and added dimensions so you know what *I'm* talking about when I say width and length.
+I've also unfolded it a bit more and added dimensions so you know what *I'm* talking about when I say width and length.  These dimensions are the *inner* dimensions, so sized for the object you want it to hold.
 
 ![Mostly unfolded](assets/shipping-box-open-2.png)
 
