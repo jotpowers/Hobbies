@@ -4,7 +4,7 @@ title: Intubation Box
 sidebar_label: Intubation Box
 ---
 
-# Introduction
+## Introduction
 
 I've done some 3D printing (probably largely because my son started doing it), so when the large [equipment shortages](https://en.wikipedia.org/wiki/Shortages_related_to_the_2019%E2%80%9320_coronavirus_pandemic) happened during COVID-19 I ended up getting involved.  I'd been spending some time at our local [makerspace](https://en.wikipedia.org/wiki/Hackerspace), [HeatSync](https://www.heatsynclabs.org/), and several of them quickly became involved with [MasksForDocs](https://masksfordocs.com/).  While all that spun up, we also had a local request come up on the HeatSync slack.
 
@@ -12,13 +12,13 @@ I've done some 3D printing (probably largely because my son started doing it), s
 
 Oh, and as a side notes [lasers are cool](assets/VID_20200402_072807.mp4).
 
-# Intubation boxes
+## Intubation boxes
 
 Someone local had a friend that was an emergency room doctor who was asking about making intubation boxes.  They said they had a real need for these, and provided the website for the design: [IntubationBox.com](https://intubationbox.com/).  This documents how we built and delivered 4 of these to the ER doctor.
 
 Now, HeatSync has a laser I've been doing some work with, so I recognized we could probably cut these pretty easily.  After a quick internal discussion, myself and one other person (shout out to Kyle) agreed to try.  Kyle ordered the acrylic adhesive and I contact [Port Plastics](http://www.portplastics.com).  It took us a few days to get the material, but then we were ready to go.
 
-# Materials needed
+## Materials needed
 
 *  1 4'x4' (1220mmx2440mm) sheet of 4.5mm acrylic (see below for more details)
 *  [Weld-On 4](https://smile.amazon.com/Weldon-Applicator-Bottle-Pint-10308/dp/B00TCUJ7A8/ref=sr_1_1?dchild=1&keywords=weld-on+4&qid=1586010116&sr=8-1) acrylic adhesive with applicators
@@ -30,7 +30,7 @@ Now, HeatSync has a laser I've been doing some work with, so I recognized we cou
 
 Total cost:  ~$55 per box.  It's just over $50 for the acrylic and then another $5 is misc supplies.  Plus, obviously, you already need access to a laser.  
 
-# Design
+## Design
 
 The design of the current box is interesting.  First, it's a strange mish-mash of metric and imperial measurements.  But more importantly for this discussion, the design relies on straight cut sides and then a dado in the top to accept them where you can glue.
 
@@ -38,7 +38,7 @@ In all honesty, I just didn't figure we had the techical skills to pull that off
 
 The goal of the rest of this documentation isn't actually to document the details of how I did it, but to provide you with some of our learnings so that if you need to make your own you can skip through a few of the problems we have worked through.
 
-# Generating the box
+## Generating the box
 
 This is simple enough.  [Google "laser cut box generator"](https://www.google.com/search?&q=laser+cut+box+generator) and take the top hit.  For me that was [MakerCase](https://en.makercase.com/#/).  Here is what you need to know:
 
@@ -53,11 +53,11 @@ Download the SVG.  I've provided the one I generated [here](assets/box.svg).
 
 ![Downloaded box diagram](assets/box.png)
 
-# Design the new Intubator box
+## Design the new Intubator box
 
 I'm not going to go into all the details of how you would create this box.  I used Inkscape to edit the SVG.  The good news with Inkscape is that it's free.  The bad news is that it's more than a little bit clunky.  To do this, all you really have to do is draw two circles of the right size on one side, and then chop the other side down a bit.  Simple enough, right?
 
-## Relabel the diagram
+### Relabel the diagram
 The first thing that I think that helps is to relabel everything to keep it straight in your mind.  Remember, we printed a box with an open top, and now we want one with an open bottom and two sides that are different. I think of the "front" as the part that is open and the "back" as the part with the holes that the doctor will stand behind.  I actually changed those labels as I worked so I wouldn't get confused.
 
 Here I've changed Bottom to Top, and then flipped and moved front and back to represent what sides I think of them as.  *Foreshadowing*: I've actually corrected a mistake I made when I did this, but we'll go into that in a minute. 
@@ -65,13 +65,13 @@ Here I've changed Bottom to Top, and then flipped and moved front and back to re
 ![Marked up box diagram](assets/box-markedup.png)  
 * [SVG](assets/box-markedup.svg)
 
-## Modify the SVG
+### Modify the SVG
 
 Now is time to modify the SVG.  You need to add the arm holes and cut off one side of the front to make it the right size.  Again, I'm not going to go into the details of how to do that, but here are the resulting end files.
 
 * [SVG](assets/20200402-06-jot-box.svg)
 
-## Lessons
+### Lessons
 
 ![Lessons learned](assets/box-cut-diagram.png)
 
@@ -82,11 +82,11 @@ Now is time to modify the SVG.  You need to add the arm holes and cut off one si
 
 ![Version 1 box problems](assets/finished-box-v1.jpg)
 
-# Assembly
+## Assembly
 
 Here is what has worked for us.  Could be revised.  Also, it's late and I'm tired, so I might get something wrong.
 
-## Steps
+### Steps
 
 Ok, so now you have it all cut out, and the paper removed from one side. 
 
@@ -102,7 +102,7 @@ Ok, so now you have it all cut out, and the paper removed from one side.
 6. Apply weld-on to the "front" piece and the top first and get it into place.  Hold for 60 seconds.
 7. Work your way around from least convenient (hardest) to easiest.  Reason you do this is because it will become more complex as you go, so doing the hard parts first makes it go smoother.
 
-## Things to do between steps
+### Things to do between steps
 1. Wipe out the excess from the corners.
 2. Write the great American novel.
 3. Hold the corners and edges in tight for 60 seconds.
@@ -115,13 +115,13 @@ Here is the picture of our four prototypes complete.
 
 ![Four completed boxes](assets/20200404-4-complete.jpg)
 
-# What I would do next time
+## What I would do next time
 
 *  Build a jig for the bottom.  That would allow it to be really snug and repeatable and perhaps could be assembled by one person.  I'd probably get a thin piece of plywood and laser cut a square to the exact size and then dry fit everything in there.
 *  Build some sort of jigs for the sides.  This would probably be a square plywood "ring" to hold it in.
 *  Use the needle applicators on the Weld-on
 *  Probably scrap the scoring of the paper and just remove all the paper before the assembly and gluing.  Sure, they might get scratched in transit, but they're going to get scratched when they're used anyways.
 
-# Additional links
+## Additional links
 
 * [New England Journal of Medicine: Barrier Enclosure during Endotracheal Intubation](https://www.nejm.org/doi/full/10.1056/NEJMc2007589)
