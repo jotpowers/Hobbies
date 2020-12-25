@@ -10,7 +10,7 @@ I've done some 3D printing (probably largely because my son started doing it), s
 
 ![Fire the laser!](assets/fire-laser.jpg)
 
-Oh, and as a side notes [lasers are cool](images/VID_20200402_072807.mp4).
+Oh, and as a side notes [lasers are cool](assets/VID_20200402_072807.mp4).
 
 # Intubation boxes
 
@@ -49,9 +49,9 @@ This is simple enough.  [Google "laser cut box generator"](https://www.google.co
   * Depth: 15.75" (which is exactly 400mm, notice the random sizes)
 * Material Thickness:  The document calls for 3/16" which is .1875", but my acrylic place had .177" (i.e. 4.5mm).  So, that's what I put in.
 
-Download the SVG.  I've provided the one I generated [here](images/box.svg).
+Download the SVG.  I've provided the one I generated [here](assets/box.svg).
 
-![Downloaded box diagram](images/box.png)
+![Downloaded box diagram](assets/box.png)
 
 # Design the new Intubator box
 
@@ -62,25 +62,25 @@ The first thing that I think that helps is to relabel everything to keep it stra
 
 Here I've changed Bottom to Top, and then flipped and moved front and back to represent what sides I think of them as.  *Foreshadowing*: I've actually corrected a mistake I made when I did this, but we'll go into that in a minute. 
 
-![Marked up box diagram](images/box-markedup.png)  [SVG](images/box-markedup.svg)
+![Marked up box diagram](assets/box-markedup.png)  [SVG](assets/box-markedup.svg)
 
 ## Modify the SVG
 
 Now is time to modify the SVG.  You need to add the arm holes and cut off one side of the front to make it the right size.  Again, I'm not going to go into the details of how to do that, but here are the resulting end files.
 
-* [SVG](images/20200402-06-jot-box.svg)
-* [DXF](20200402-06-jot-box)
+* [SVG](assets/20200402-06-jot-box.svg)
+* [DXF](assets/20200402-06-jot-box)
 
 ## Lessons
 
-![Lessons learned](images/box-cut-diagram.png)
+![Lessons learned](assets/box-cut-diagram.png)
 
 1. Cut off the correct side of the front.  In my first version I had both front and back up towards the middle of the diagram.  The result was I cut off the fingered portion of the front, and endedup with two smooth sides.  Oops.  Don't do that.  You want to make sure you have a fingered side and a flat side.
 2. On the sides I forgot to remove one of the fingers.  It's visible in a picture I'm sure I'll add later, but because the front is partial you don't need one of the fingers.
 3. Create a paper "score" mark on all of these pieces.  In order to glue these all together you need to remove about an 3cm of paper from the edge so that it's not soaking up the adhesive.  Now, you can do that by hand, but you have a laser right there, so just try to figure out a setting that cuts the paper but does not score the acrylic.  Good luck with that.  
 4. Ok, it's not its own number on the diagram, but make sure when you do the laser score on the sides, you "mirror" one of the pieces.  In other words, the score needs to be on the inside of both of the sides.  If you make them the same, you'll end up with the score on the wrong side of the sheet when you assemble.
 
-![Version 1 box problems](images/finished-box-v1.jpg)
+![Version 1 box problems](assets/finished-box-v1.jpg)
 
 # Assembly
 
@@ -92,7 +92,7 @@ Ok, so now you have it all cut out, and the paper removed from one side.
 
 *Note*: Ok, you _might_ be able to do this with one person, I'd recommend at least two.
 
-![Box layed out](images/box-layed-out.jpg)
+![Box layed out](assets/box-layed-out.jpg)
 
 1. Lay out all the pieces for the box, layed flat.
 2. Apply a border of the masking tape to the "outside" (or the side you didn't have scored) of the "top".
@@ -113,7 +113,7 @@ Finally...
 
 Here is the picture of our four prototypes complete.
 
-![Four completed boxes](images/20200404-4-complete.jpg)
+![Four completed boxes](assets/20200404-4-complete.jpg)
 
 # What I would do next time
 
