@@ -62,12 +62,8 @@ The first thing that I think that helps is to relabel everything to keep it stra
 
 Here I've changed Bottom to Top, and then flipped and moved front and back to represent what sides I think of them as.  *Foreshadowing*: I've actually corrected a mistake I made when I did this, but we'll go into that in a minute. 
 
-<<<<<<< HEAD
-![Marked up box diagram](assets/box-markedup.png)  [SVG](assets/box-markedup.svg)
-=======
 ![Marked up box diagram](assets/box-markedup.png)  
 * [SVG](assets/box-markedup.svg)
->>>>>>> ab51c49bb0dbbfab3ac00f9428ea07c1281a5417
 
 ## Modify the SVG
 
