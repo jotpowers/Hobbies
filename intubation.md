@@ -62,14 +62,23 @@ The first thing that I think that helps is to relabel everything to keep it stra
 
 Here I've changed Bottom to Top, and then flipped and moved front and back to represent what sides I think of them as.  *Foreshadowing*: I've actually corrected a mistake I made when I did this, but we'll go into that in a minute. 
 
+<<<<<<< HEAD
 ![Marked up box diagram](assets/box-markedup.png)  [SVG](assets/box-markedup.svg)
+=======
+![Marked up box diagram](assets/box-markedup.png)  
+* [SVG](assets/box-markedup.svg)
+>>>>>>> ab51c49bb0dbbfab3ac00f9428ea07c1281a5417
 
 ## Modify the SVG
 
 Now is time to modify the SVG.  You need to add the arm holes and cut off one side of the front to make it the right size.  Again, I'm not going to go into the details of how to do that, but here are the resulting end files.
 
 * [SVG](assets/20200402-06-jot-box.svg)
+<<<<<<< HEAD
 * [DXF](20200402-06-jot-box)
+=======
+* [DXF](assets/20200402-06-jot-box)
+>>>>>>> ab51c49bb0dbbfab3ac00f9428ea07c1281a5417
 
 ## Lessons
 
