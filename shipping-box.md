@@ -18,11 +18,25 @@ Now, best case scenario a pattern already existed and I could just use that, but
 
 As usual, I started in Fusion360.  A quick google will reveal to you that the sheet metal tools in Fusion are perfect for this.  It allows you to take a material and bend it around, and the fact that it's not metal but cardboard doesn't matter.
 
+Here is the box in Fusion.
+
+![Lid open](assets/shipping-box-open-1.png)
+
+I've also unfolded it a bit more and added dimensions so you know what *I'm* talking about when I say width and length.
+
+![Mostly unfolded](assets/shipping-box-open-2.png)
+
+If you're just looking to change the dimensions and the materials, here is how you do it.  First change it in the parametric section.
+
+![Parametric window](assets/shipping-box-parameters.png)
+
+Then you need to change *only the material thickness* in the sheet metal materials section as well.
+
+![Rules 1](assets/shipping-box-sheet-metal-rules.png) ![Second rules window](assets/shipping-box-sheet-metal-rules-2.png) ![Edit](assets/shipping-box-edit-rule.png)
+
+
 The challenge is that there are points in a pizza box where you need the bend to go around a non-adjacent face (I'll try to explain later).  In that case you actually need to add some material so that's an option.  The net result is if the material you're using changes thickness, you need to change it two places.
 
-Once in the material definition.
-
-Once in the parametric section where I defined the thickness.
 
 
 
