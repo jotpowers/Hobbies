@@ -10,6 +10,7 @@ I decided I wanted to be able to have a "pizza box" style shipping box.  Ideally
 
 > *This is the box with my [Light Up Name Badge](name-badge.md) packaged up in it.  The next thing I need to document.*
 
+## Design
 Now, best case scenario a pattern already existed and I could just use that, but I really searched and couldn't find it.  So, here are my design goals:
 
 1.  It needs to be parametric, which is to say, I can just change the inner dimensions for whatever I want to ship and the box changes.
@@ -20,6 +21,7 @@ As usual, I started in Fusion360.  A quick google will reveal to you that the sh
 
 The challenge is that there are points in a pizza box where you need the bend to go around a non-adjacent face (I'll try to explain later).  In that case you actually need to add some material so that's an option.  The net result is if the material you're using changes thickness, you need to change it two places.
 
+## Result
 Here is the box in Fusion.
 
 ![Lid open](assets/shipping-box-open-1.png)
@@ -28,6 +30,7 @@ I've also unfolded it a bit more and added dimensions so you know what *I'm* tal
 
 ![Mostly unfolded](assets/shipping-box-open-2.png)
 
+## Resizing the box
 If you're just looking to change the dimensions and the materials, here is how you do it.  First change it in the parametric section.
 
 ![Parametric window](assets/shipping-box-parameters.png)
@@ -36,7 +39,13 @@ Then you need to change *only the material thickness* in the sheet metal materia
 
 ![Rules 1](assets/shipping-box-sheet-metal-rules.png) ![Second rules window](assets/shipping-box-sheet-metal-rules-2.png) ![Edit](assets/shipping-box-edit-rule.png)
 
+## Export as DXF
 
+
+### Correct the DXF
+
+
+## Crease and fold
 
 
 
