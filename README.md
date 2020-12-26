@@ -5,7 +5,7 @@ sidebar_label: Overview
 ---
 # Hobbies
 
-> *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/Hobbies).
+> *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  You can thank Vidit for opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/Hobbies).
 
 This is the repo for documenting the various things I have created because I find them interesting.  Most of them tend to be "Design & Fabricate" but there is some variety.  Some have required code and some of them are only code.  
 
