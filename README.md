@@ -11,3 +11,10 @@ I make no commitments to the elegance of the code or the quality of the comments
 
 * [Lock and Key](lock-n-key):  A novel system of creating a "key" out of resin that can be used to create secure locks.  Patent pending, not because it is likely to get manufactured, but because the company I work for believes it has some interesting intellectual property aspects.
 * [Intubation box](Intubation-Box): How to build an intubation box as Personal Protective Equipment (PPE) for doctors 
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![License image](assets/88x31.png)

@@ -12,6 +12,8 @@ I've never had a problem I'm interested in solving that I can't solve faster in 
 
 Then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
 
+![My tshirts](assets/tshirt-sorter-closet.png)
+
 # Problem Statement
 
 Ok, straight up, this is incredibly geeky.  Probably over the top.  I get that.  Just go with me.
