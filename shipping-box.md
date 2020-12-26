@@ -54,7 +54,7 @@ You need to turn it into a single plane.
 
 Now, for reasons I don't understand, sometimes the dimensions of the dxf are wildly different from what they end up in Inkscape.
 
-* First thing I do is "Select All" (command/contral A).
+* First thing I do is "Select All" (command/control A).
 * Then hit "4" to zoom to selection.  It will probably look completely unlike what your flat pattern looked like.
 * Go to View -> Display -> Outline Mode ... now things shoudl look reasoable
 * Use the rectangular selection to grab it all
