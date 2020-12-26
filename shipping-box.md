@@ -39,20 +39,58 @@ Then you need to change *only the material thickness* in the sheet metal materia
 
 ![Rules 1](assets/shipping-box-sheet-metal-rules.png) ![Second rules window](assets/shipping-box-sheet-metal-rules-2.png) ![Edit](assets/shipping-box-edit-rule.png)
 
+## Create the flat pattern
+
+You need to turn it into a single plane.
+
+![Create the flat pattern](assets/shipping-box-create-flat-pattern.png)
+![Here is what the flat pattern will look like](assets/shipping-box-flat-pattern.png)
+
 ## Export as DXF
 
+![Export the flat pattern to dxf](assets/shipping-box-export-to-dxf.png)
 
 ### Correct the DXF
 
+Now, for reasons I don't understand, sometimes the dimensions of the dxf are wildly different from what they end up in Inkscape.
+
+* First thing I do is "Select All" (command/contral A).
+* Then hit "4" to zoom to selection.  It will probably look completely unlike what your flat pattern looked like.
+* Go to View -> Display -> Outline Mode ... now things shoudl look reasoable
+* Use the rectangular selection to grab it all
+* Shift-Control-R to resize the canvas to your selection
+* "4" again to get it full in view
+
+That now gets you to a good baseline
+
+Generally I like to make sure I measure (Inspect) one of the widest dimensions.
+![So figure out a good way to measure the dimensions.](assets/shipping-box-measure-dimensions.png)
+
+Even though I set the defaults to mm, seems like I end up in px too often.  Switch over and see what I have.
+![Figure out what the dimension is in Inkscape](assets/shipping-box-inkscape-size.png)
+
+Resize it to a reasonable number.  See how ridiculous that looks?  This is where you do the "shift-control-r" trick followed by a "4" to make it look reasonable again.
+
+![The little *lock* matters to keep it proportional](assets/shipping-box-inkscape-resize.png)
+
+For some reason the DXF always ends up with three lines on the fold instead of one.  Probably due to the way sheet metal works.  Here is an example.  You'll really have to zoom in.
+![Close up of the problem](assets/shipping-box-inkscape-too-many-lines.png)
+
+So, clean those all up.  Generally you want to remove the outside lines, but in the end it doesn't matter that much.
+
+![Cleaned up](assets/shipping-box-inkscape-right-amount-of-lines.png)
+
+You can now setup your palette to cut the lines that need to be cut and to simply lightly score the guidelines for folding.
 
 ## Crease and fold
+Now comes the crux of the problem.  I haven't figured out a good way to get the cardboard to crease so I can make the boxes really nice.  I suspect at an industrial scale they have a press that does it and bends everything, but I don't.
 
-
+I have used a sheet metal break, and it's a bit slow, but does make good creases.  Even with that, the box doesn't want to completely fold and I have to use hot-glue to hold in the tabs.
 
 
 ## Files
 
-I'm providing the files here so you don't have to try to recreate it.  However, my requirement is that if you decide to host them somewhere else you are required to provide attribution.
+I'm providing the files here so you don't have to try to recreate it.  However, my requirement is that if you decide to host them somewhere else you are required to provide attribution per the [license](LICENSE).
 
 * [Fusion file](assets/shipping-box.f3d)
 * [Step file](assets/shipping-box.step)
