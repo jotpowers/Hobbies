@@ -4,6 +4,8 @@ title: Tshirt Sorter
 sidebar_label:  Tshirt Sorter
 ---
 
+![My tshirts](assets/tshirt-sorter-banner.png)
+
 # Introduction
 
 I have a problem.  Ok, I have several, but in this context, there is one major one.  
@@ -11,8 +13,6 @@ I have a problem.  Ok, I have several, but in this context, there is one major o
 I've never had a problem I'm interested in solving that I can't solve faster in [Perl](http://www.perl.org) than in [Python](http://www.python.org), because I learned Perl back in 19 _cough_ _cough_ and haven't needed to learn Python.
 
 Then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
-
-![My tshirts](assets/tshirt-sorter-closet.png)
 
 # Problem Statement
 

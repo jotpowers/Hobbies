@@ -15,7 +15,7 @@ This all started when [Greg](https://www.ohack.org) bought a bunch of [these mod
 
 ![Adafruit Frame](assets/badge-adafruit-led-module-frame.png)
 
-Finicky to assmble and felt very difficult to customize. it was nonetheless fun, useful and had positive reviews.  At this stage I was just using [SketchUp](https://www.sketchup.com/) for all of my designs.
+Finicky to assmble and felt very difficult to customize. it was nonetheless fun, useful and had positive reviews.  At this stage I was just using [SketchUp](https://www.sketchup.com/) for all of my designs.  You can even see some of the issues.  The slicer reports that it is a [non-manifold geometry](https://all3dp.com/2/non-manifold-edges/)
 
 ### Circa 2018
 
@@ -42,7 +42,7 @@ I make the frustrating, but constructive change to [Fusion 360](https://www.auto
 Also, you might have heard of this *Covid* thing.  That has two impacts.  
 
 1. Suddenly, I was spending a lot more time at home.
-2. Through [Heatsync](https://www.heatsynclabs.org) I got involved in 3D printing [PPE](https://www.osha.gov/personal-protective-equipment) for (Masks for Docs)[https://masksfordocs.com/].  
+2. Through [Heatsync](https://www.heatsynclabs.org) I got involved in 3D printing [PPE](https://www.osha.gov/personal-protective-equipment) for [Masks for Docs](https://masksfordocs.com/).  
 This suddenly meant that I had to really learn how to use a 3D printer.  I ended up running two Creality CR-10's (one from our neighbor) close to 24x7 for several months.  This meant I because intimately familiar with all the foibles there, and also got comfortable with slicers.
 
 Rapid prototyping accelerates and you can see the evolution kick into gear.  I took a photo of all of my prototypes from start to finish, just before I threw them all out, because no one needs to hold on to that much stuff.
