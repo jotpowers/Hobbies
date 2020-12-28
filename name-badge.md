@@ -5,3 +5,5 @@ sidebar_label: Light Up Name Badge
 ---
 
 Placeholder for my documentation of that project.
+
+![Animated badge](assets/badge-animation.gif)
