@@ -6,7 +6,7 @@ sidebar_label:  Tshirt Sorter
 
 ![My tshirts](assets/tshirt-sorter-banner.png)
 
-# Introduction
+## Introduction
 
 I have a problem.  Ok, I have several, but in this context, there is one major one.  
 
@@ -14,7 +14,7 @@ I've never had a problem I'm interested in solving that I can't solve faster in 
 
 Then came COVID.  Now I have a problem, and it's not time sensitive, so why not?
 
-# Problem Statement
+## Problem Statement
 
 Ok, straight up, this is incredibly geeky.  Probably over the top.  I get that.  Just go with me.
 
@@ -28,7 +28,7 @@ But:
   1. As a result the shirts get clumped together by colors
 4. I want to avoid decision fatigue and make it so I can just grab the next shirt, without violating 1 and 2.
 
-# Solution
+### Solution
 
 Write a python program that gives me an ordered list of shirts where neither colors nor themes repeat themselves.  Then every 30 days or so I just follow the output and order them, and I'm good for a month.
 
@@ -59,7 +59,7 @@ Breaking out each color separately didn't really do what I wanted.  I could have
 * Green
 * Other
 
-# Code
+## Code
 
 So, I decided to start with an IDE, and that was [PyCharm](https://www.jetbrains.com/pycharm/).  Works great. _But_ it started up a venv with python 2.7.  Even I knew python 2 was EOLd, but I went with it for the first version.  Then I had to get pycharm to start a python3 venv and port my code, and that's what I did.  
 
