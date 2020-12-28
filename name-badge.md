@@ -69,7 +69,7 @@ I'm pretty happy with this overall.  Maybe there are better ways to do a few thi
 Examples:
 * You can see the battery.  This is necessary so that you have the finger holes so that you can take it in and out.
 * The battery holder covers part of the badge.  
-  * It's necessary to get the LED centered on the edge fo the badge, and you want to prevent the viewers from seeing that.  
+  * It's necessary to get the LED centered on the edge of the badge, and you want to prevent the viewers from seeing that.  
   * The battery has a minimum size, so that impacts it as well.
   * It secures the badge from falling out.  It is actually pressure fit pretty well, but this 
 helps a lot.
