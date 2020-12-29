@@ -6,7 +6,7 @@ sidebar_label: Shipping Box
 
 I decided I wanted to be able to have a "pizza box" style shipping box.  Ideally, I wanted to be able to up-cycle cardboard I had in order to create these.  This cardboard was primarly sourced from boxes already delivered to me that I would just recycle.  
 
-![Finished box with name badge](assets/small-size-box.png)
+![Finished box with name badge](assets/shipping-box-small-size-box.png)
 
 > *This is the box with my [Light Up Name Badge](name-badge.md) packaged up in it.  The next thing I need to document.*
 
