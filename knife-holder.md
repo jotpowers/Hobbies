@@ -52,4 +52,5 @@ Here is what it looks like in the real world.  I apologize in advance for having
 
 ## Lessons learned
 
-If I were to do this over again I'd actually notch the sides to accept the top piece.  I put too much faith in the solvent.  It works good, but it has come apart once.  I forgot the lesson of "always make sure you have a mechanical connection" to make it stronger.  Not much harder and would work better.  Also, the cross-bar is about 2 mm too long, so I'd shorten that down by about, oh I don't know, 2 mm. 
+* If I were to do this over again I'd actually notch the sides to accept the top piece.  I put too much faith in the solvent.  It works good, but it has come apart once.  I forgot the lesson of "always make sure you have a mechanical connection" to make it stronger.  Not much harder and would work better.  
+* Also, the cross-bar is about 2 mm too long, so I'd shorten that down by about, oh I don't know, 2 mm. 
