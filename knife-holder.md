@@ -38,7 +38,7 @@ Here is what the final design looks like.
 
 ![Final model](assets/knife-holder-final-model.png)
 
-I even got fancy and animated it in Fusion.  You can either view the [silky smooth mp4](assets/knife-holder-bare-acrylic.mp4), or just checkout the gif I made by using ffpmeg piped into gifsicle to create a mildly annoying version.
+I even got fancy and animated it in Fusion.  You can either view the [silky smooth mp4](assets/knife-holder-bare-acrylic.mp4), or just checkout the gif I made by using [ffpmeg piped into gifsicle](https://gist.github.com/dergachev/4627207)  to create a mildly annoying version.
 
 ![Slightly annoying gif](assets/knife-holder-rotating.gif)
 
