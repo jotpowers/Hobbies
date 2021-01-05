@@ -92,6 +92,8 @@ As everyone knows, the last part of any 3D design is to "chamfer all the things!
 ### Final Pieces
 At this point, it's mostly complete.  
 
+![Animated badge](assets/badge-animation.gif)
+
 * I can 3D print all the pieces I need.  
 * I can cut and engrave the acrylic reliably.
 * I've designed a [Shipping box](shipping-box.md) for it.
