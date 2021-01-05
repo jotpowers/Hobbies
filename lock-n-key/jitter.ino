@@ -1,7 +1,7 @@
 /*
 
 Combining photo resistor and rgb
-Uses the standard libraries.  Here I was trying to understand how to compensate for the "jitter" that happened, likely due to osciallator and clock speed, and how I could compensate for it.
+Uses the standard libraries.  Here I was trying to understand how to compensate for the "jitter" that happened, likely due to oscillator and clock speed, and how I could compensate for it.
 
 Yes, all of this code is ugly and poorly documented.  Welcome to hobbies.  
 

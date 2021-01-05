@@ -39,10 +39,11 @@ This last one is the deal killer for this design.  I tried etching/painting and 
 
 I make the frustrating, but constructive change to [Fusion 360](https://www.autodesk.com/products/fusion-360/overview).  It's free for personal use, but has a pretty steep learning curve.  I watch Youtube videos, but I also get to cheat, as my teenage son has a ton of experience with 3D modeling in the various tools, so I can just bellow at him from across the house when I'm stuck on something I think should be easy.  
 
-Also, you might have heard of this *Covid* thing.  That has two impacts.  
+Also, you might have heard of this *COVID* thing.  That has two impacts.  
 
 1. Suddenly, I was spending a lot more time at home.
 2. Through [Heatsync](https://www.heatsynclabs.org) I got involved in 3D printing [PPE](https://www.osha.gov/personal-protective-equipment) for [Masks for Docs](https://masksfordocs.com/).  
+
 This suddenly meant that I had to really learn how to use a 3D printer.  I ended up running two Creality CR-10's (one from our neighbor) close to 24x7 for several months.  This meant I because intimately familiar with all the foibles there, and also got comfortable with slicers.
 
 Rapid prototyping accelerates and you can see the evolution kick into gear.  I took a photo of all of my prototypes from start to finish, just before I threw them all out, because no one needs to hold on to that much stuff.

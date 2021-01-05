@@ -17,7 +17,9 @@ Once again, I designed this in Fusion 360.  In this case I knew I was going to b
 * Sharpening steel
 * Bread knife
 
-I had a few sheets of 3 mm frosted acrylic that I don't tend to use a lot, so it made sense to make it out of that.  I like acrylic for these applications because I can "weld" it, it's flat (so easier to cut on the laser) and weight isn't an issue.
+I had a few sheets of 3 mm frosted acrylic that I don't tend to use a lot, so it made sense to make it out of that.  I like acrylic for these applications because I can "weld" it, it's flat (so easier to cut on the laser) and weight isn't an issue.  Since I already know my material dimensions that simplifies design as well.
+
+> *Note*:  Now, because I have a 3D object in Fusion, I *could* 3D print these.  This is where understanding your manufacturing goals is helpful.  These would take hours to print and even at high infill would probably be brittle in the way the forces would act on them.  So, I'd have to make the design more robust to handle that, which would complicate the design and increase the print time.  So, lasercut 2D it is.
 
 ## First version
 
@@ -47,7 +49,7 @@ Here is what that looks like:
 
 ![Knife organizer sketch](assets/knife-organizer-dimension-drawing.png)
 
-I also take this opportunity to customize the depth of a couple of the cutouts to deal with the fact that the handles are higher on the [Santoku style[(https://www.cooksillustrated.com/articles/504-should-you-buy-a-santoku) knives.
+I also take this opportunity to customize the depth of a couple of the cutouts to deal with the fact that the handles are higher on the [Santoku style](https://www.cooksillustrated.com/articles/504-should-you-buy-a-santoku) knives.
 
 So now the organizers look more like:
 
