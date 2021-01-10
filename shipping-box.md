@@ -56,7 +56,7 @@ Now, for reasons I don't understand, sometimes the dimensions of the dxf are wil
 
 * First thing I do is "Select All" (command/control A).
 * Then hit "4" to zoom to selection.  It will probably look completely unlike what your flat pattern looked like.
-* Go to View -> Display -> Outline Mode ... now things shoudl look reasoable
+* Go to View -> Display -> Outline Mode ... now things should look reasoable
 * Use the rectangular selection to grab it all
 * Shift-Control-R to resize the canvas to your selection
 * "4" again to get it full in view
