@@ -10,7 +10,7 @@ One of the things that you learn through your journey of building things is what
 
 ## Problem
 
-For a long time we've had this magnetic tool holder that we use to hold our sharp kitchen knives.  You seem something like this pretty commonly in commercial kitchens or people doing photo shoots of their houses showing how much they are "real chefs".  Of course, I think I got ours at [Lowe's](https://www.lowes.com/).
+For a long time we've had this magnetic tool holder that we use to hold our sharp kitchen knives.  You seem something like this pretty commonly in commercial kitchens or people doing photo shoots of their houses showing how much they are "real chefs".  Of course, I think I got ours at [Lowe's](https://www.lowes.com/), because I'm sophisticated and suave like that.
 
 ![Torin tool holder](assets/knife-holder-torin-magnetic-stick.jpg)
 
