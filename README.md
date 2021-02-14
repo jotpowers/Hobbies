@@ -13,7 +13,7 @@ This is the repo for documenting the various things I have created because I fin
 
 I make no commitments to the elegance of the code or the quality of the comments.  Mostly, these were all for me to have a little fun.
 
-* [Lock and Key](lock-n-key):  A novel system of creating a "key" out of resin that can be used to create secure locks.  Patent pending, not because it is likely to get manufactured, but because the company I work for believes it has some interesting intellectual property aspects.
+* [Lock and Key](lock-n-key/lock-n-key):  A novel system of creating a "key" out of resin that can be used to create secure locks.  Patent pending, not because it is likely to get manufactured, but because the company I work for believes it has some interesting intellectual property aspects.
 * [Intubation box](Intubation-Box): How to build an intubation box as Personal Protective Equipment (PPE) for doctors 
 * [Tshirt sorter](tshirts/tshirts.md):  How to sort my tshirts.  Really.
 * [Shipping box](shipping-box.md):  A parametric folding cardboard box.

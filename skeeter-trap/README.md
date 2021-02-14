@@ -1,4 +1,9 @@
-# Skeeter trap
+---
+id: skeeter-trap 
+title: Skeeter Trap
+sidebar_label: Skeeter Trap
+---
+
 
 Working on a home built mosquito trap.  Primarily for indoors when they're trying to attack you while you sleep.
 

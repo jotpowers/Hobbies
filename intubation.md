@@ -1,5 +1,5 @@
 ---
-id: intubation 
+id: intubation-box 
 title: Intubation Box
 sidebar_label: Intubation Box
 ---

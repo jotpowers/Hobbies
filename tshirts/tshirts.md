@@ -4,7 +4,7 @@ title: Tshirt Sorter
 sidebar_label:  Tshirt Sorter
 ---
 
-![My tshirts](assets/tshirt-sorter-banner.png)
+![My tshirts](../assets/tshirt-sorter-banner.png)
 
 ## Introduction
 
