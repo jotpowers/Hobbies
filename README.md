@@ -5,7 +5,7 @@ sidebar_label: Overview
 ---
 
 ![A hobby photo from before panos were a thing](assets/sunset_04090501_final.jpg)
-# Hobbies
+*(This was a digitially stitched composite of roughly 20 photos.  Circa 2004, this was back before taking panoramas was a simple thing to do.  Arizona sunsets are the best.)*
 
 > *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/).  You can thank Vidit for opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/Hobbies).
 
