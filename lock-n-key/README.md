@@ -11,3 +11,6 @@ This project came out of some brainstorming at work.  The idea was to build a ph
 *  3D printed "lock"
 *  Arduino with LED or laser being read by photoresistors
   *  Code to do the various pulsing and reading
+
+## External links
+* [Multi-factor authentication utilizing non-centralized key creation with physical randomness](https://patents.google.com/patent/US20210019387A1/en?oq=US2021019387A1)

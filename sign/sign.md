@@ -49,4 +49,10 @@ The half circle you see there represents the profile of LED strip.  In the end, 
 * python
 
 
+![Test sign in pattern mode](files/test-pattern.gif)
 
+*The sign running through the test patterns*
+
+![Test sign in meeting mode](files/meeting-mode.gif)
+
+*"Meeting mode".  You pass it the number of minutes and it turns on red and then counts down to green until it is out of time and flashes obnoxiously.  The idea was to have this on behind you during video calls to add some time awareness for the meeting.*
