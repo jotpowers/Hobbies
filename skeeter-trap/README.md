@@ -44,4 +44,4 @@ All from [AZDHS](https://www.azdhs.gov/preparedness/epidemiology-disease-control
 Since this is really just for my reference, I'm not going to go all MLA on reference formatting.
 
 * [Trapping of Rift Valley Fever (RVF) vectors using Light Emitting Diode (LED) CDC traps in two arboviral disease hot spots in Kenya](https://link.springer.com/article/10.1186/1756-3305-5-94)
-* [Entomology Today](https://entomologytoday.org/2017/08/09/building-a-better-light-trap-study-finds-specific-light-waves-attract-anopheline-mosquitoes/]
+* [Entomology Today](https://entomologytoday.org/2017/08/09/building-a-better-light-trap-study-finds-specific-light-waves-attract-anopheline-mosquitoes/)

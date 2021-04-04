@@ -5,9 +5,11 @@ sidebar_label: Knife Drawer Organizer
 ---
 
 ## Introduction
-My wife bought some Schmidt Brothers knives from Costco to supplement/replace our three Wustof knives from the last 20 years.*  But she didn't want them taking up space on the counter, so just wanted them in a drawer.  That's great, except it turns into a disorganized mess.  So, she asked me to design a solution, and this is it.
+My wife bought some Schmidt Brothers knives from Costco to supplement/replace our three Wustof knives from the last 20 years. But she didn't want them taking up space on the counter, so just wanted them in a drawer.  That's great, except it turns into a disorganized mess.  So, she asked me to design a solution, and this is it.
 
-> *Note*: On a related note we had been using a magnetic knife strip for the three Wustof knives and [I designed a different improvement for that.](knife-holder.md)
+:::note
+On a related note we had been using a magnetic knife strip for the three Wustof knives and [I designed a different improvement for that.](knife-holder.md)
+:::
 
 ## Design
 
@@ -19,7 +21,9 @@ Once again, I designed this in Fusion 360.  In this case I knew I was going to b
 
 I had a few sheets of 3 mm frosted acrylic that I don't tend to use a lot, so it made sense to make it out of that.  I like acrylic for these applications because I can "weld" it, it's flat (so easier to cut on the laser) and weight isn't an issue.  Since I already know my material dimensions that simplifies design as well.
 
-> *Note*:  Now, because I have a 3D object in Fusion, I *could* 3D print these.  This is where understanding your manufacturing goals is helpful.  These would take hours to print and even at high infill would probably be brittle in the way the forces would act on them.  So, I'd have to make the design more robust to handle that, which would complicate the design and increase the print time.  So, lasercut 2D it is.
+:::note
+Now, because I have a 3D object in Fusion, I *could* 3D print these.  This is where understanding your manufacturing goals is helpful.  These would take hours to print and even at high infill would probably be brittle in the way the forces would act on them.  So, I'd have to make the design more robust to handle that, which would complicate the design and increase the print time.  So, lasercut 2D it is.
+:::
 
 ## First version
 
