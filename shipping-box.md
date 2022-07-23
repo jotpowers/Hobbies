@@ -90,7 +90,7 @@ I have used a sheet metal break, and it's a bit slow, but does make good creases
 
 ## Files
 
-I'm providing the files here so you don't have to try to recreate it.  However, my requirement is that if you decide to host them somewhere else you are required to provide attribution per the [attribution requirements](attribution).
+I'm providing the files here so you don't have to try to recreate it.  However, my requirement is that if you decide to host them somewhere else you are required to provide attribution per the [attribution requirements](attribution.md).
 
 * [Fusion file](assets/shipping-box.f3d)
 * [Step file](assets/shipping-box.step)

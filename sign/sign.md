@@ -46,6 +46,12 @@ The half circle you see there represents the profile of LED strip.  In the end, 
 ### Pi
 
 * auto wifi
+	uses the autohotspot packages
+	I can't tell you how long I looked for something to do this
+
+https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/157-raspberry-pi-auto-wifi-hotspot-switch-internet
+
+
 * python
 
 
