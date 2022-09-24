@@ -15,7 +15,9 @@ It's just a [Shortcrust Pastry](https://www.daringgourmet.com/authentic-cornish-
 
 * [Instant Pot shredded chicken](https://www.gimmesomeoven.com/instant-pot-shredded-chicken/)
 
-> *Note*: I actually like to brine the chicken for at least an hour, and then leave out the salt from this recipe.
+:::note 
+I actually like to brine the chicken for at least an hour, and then leave out the salt from this recipe.
+:::note
 
 ### BBQ sauce
 
@@ -30,3 +32,6 @@ It's just a [Shortcrust Pastry](https://www.daringgourmet.com/authentic-cornish-
 * Mix chicken with BBQ sauce
 * Make pasties according to standard pasty recipes with the BBQ chicken in it.
 * Bake and serve
+
+## Additional notes
+* I have gone so far as to make my own BBQ sauce for the BBQ sauce. Hmm...that doesn't make a ton of sense, but anyway...  Perhaps saying more about my abilities that I should, it was no better than store bought in the final recipe, so I don't think it's worth it.
