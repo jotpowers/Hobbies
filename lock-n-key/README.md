@@ -13,7 +13,7 @@ One of the fundamental challenges with security is randomness.  It is incredibly
 
 ## Resin "keys"
 
-When you normally make resin projects, your goal is to limit the number of bubbles that form.  You do this through either heating it up, pressurizing it, or using vacuum.  But, if you're trying to make a randomized key, they could be awesome.  In fact, I think they could be virtually impossible to replicate.  I happened to have resin around from a prior project (I'm sure all of you have it at home as well, right?), so I created a quick for and poured a block of resin, and stirred it around.  I tried adding some food coloring to increase it even more, but that didn't work out very well.  Then I just let it sit for a a day or two, before cutting it into blocks and polishing it up to be clear.
+When you normally make resin projects, your goal is to limit the number of bubbles that form.  You do this through either heating it up, pressurizing it, or using vacuum.  But, if you're trying to make a randomized key, they could be awesome.  In fact, I think they could be virtually impossible to replicate.  I happened to have resin around from a prior project (I'm sure all of you have it at home as well, right?), so I created a quick form and poured a block of resin, and stirred it around.  I tried adding some food coloring to increase it even more, but that didn't work out very well.  Then I just let it sit for a a day or two, before cutting it into blocks and polishing it up to be clear.
 
 
 *  3D printed "lock"
