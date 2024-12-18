@@ -25,6 +25,31 @@ It was six months before I was doing a move and I felt what my opponent was doin
 ## Use Your Words
 
 
+## practice specific stuff
+change the win conditions if it gets you more reps
+
+
+take notes
+
+set different win conditions (i.e. no arm bars for a week)
+
+ask people who are good at different things for help ... there is specialization
+
+start with one thing from every position... then move to two.
+
+Stuff to add
+link to Christian video on elbow knee
+link to redding post on skin care and the bjj MM podcast that was the source
+find the running man video
+
+friends close and elbows closer
+inside lane
+henry akins relax
+submeta intro class
+
+half-guard is best guard
+
+
 
 
 
