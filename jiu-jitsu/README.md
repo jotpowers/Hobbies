@@ -17,13 +17,30 @@ When I say something is "always" true, you should recognize that [60% of the tim
 
 When you start out it is overwhelming.  You feel like you're fighting for your life and you learn about some technique, and when you go to implement it, you can't remember any of the pieces and the pieces you can remember don't even work.  Small children are climbing all over you like you're some sort of incompetent jungle-gym and you're flopping around like a like a wounded mackrel.  Don't worry, that's normal.
 
-It was six months before I was doing a move and I felt what my opponent was doing and knew what a counter was and could implement it.
-
+It was six months before I was doing a move and I felt what my opponent was doing and knew what a counter was and could implement it.  It was feeling them trying to bridge from mount and knowing I could gravevine the opposite leg.  Super simple.  Took six months!
 
 # How to Speed Up Your Progress
 
+## If the "Room" Gets Better, You'll Get Better
+
+
+
 ## Use Your Words
 
+I can not emphasize enough how stupid I felt when I realized this was a secret shortcut.  Seriously, if you want to get better, generally you just need to tell people what you're trying to accomplish and they're almost always willing to do it!
+
+Let me give you some concrete examples:
+
+* You're at an open mat, and instead of just doing "live rolls" the whole time you say:
+
+> I'm trying to work on my half-guard passing.  Would you mind if we just setup that and worked on it?
+
+* You're a smaller person and the only person to pair up with is huge.
+
+> We can roll, but I don't want to end up underneath you.
+
+
+## Tapping is not Losing
 
 ## practice specific stuff
 change the win conditions if it gets you more reps
