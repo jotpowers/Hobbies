@@ -24,13 +24,15 @@ After a year, you probably know the various positions and know how to get submit
 
 After two years I felt like I could start to recognize the importance of understanding details.  Could I execute on them?  Heck no.  Could I recognize them in the moment?  Of course not.  But I could recognize them as being important.
 
-After three years I felt like "insert something here when I get to three years"
+After three years I felt like "insert something here when I get to three years".
 
 # How to Speed Up Your Progress
 
 ## If the "Room" Gets Better, You'll Get Better
 
-So you need to be a great training partner.  This is really difficult to do when you're starting out because you feel like the only way you ever "win" is if you go really hard.  If that is all you do though, you have an increased likelyhood to get injured, injure your training partners, and fail to understand why techniques work.  Every injury results in a loss of ability to train.  If you're not training, you're not going to get better.  So, prioritize avoiding injuries for everyone.  Are they going to happen?  Yes.  But I will tell you that almost without exception, my injuries have all been caused by me.  
+So you need to be a great training partner.  This is really difficult to do when you're starting out because you feel like the only way you ever "win" is if you go really hard.  If that is all you do though, you have an increased likelyhood to get injured, injure your training partners, and fail to understand why techniques work.  Every injury results in a loss of ability to train.  If you're not training, you're not going to get better.  
+
+Prioritize avoiding injuries for everyone.  Are they going to happen?  Yes.  But I will tell you, that almost without exception, my injuries have all been caused by me.  
 
 This directly leads me to...
 
@@ -47,7 +49,7 @@ I can not emphasize enough how stupid I felt when I realized this was a secret s
 Let me give you some concrete examples:
 
 * You're at an open mat, and instead of just doing "live rolls" the whole time you say:
-  * _ I'm trying to work on my half-guard passing.  Would you mind if we just setup that and worked on it?_
+  * _I'm trying to work on my half-guard passing.  Would you mind if we just setup that and worked on it?_
 
 * You're a smaller person and the only person to pair up with is huge.
   * _We can roll, but I don't want to end up underneath you._
@@ -99,8 +101,12 @@ This will generally go better and be more well received if you're starting in th
 The fact is that there are no magic techniques.  *But*, there are some general things that you can do that will help you survive a little longer until you get the mat hours in you need.
 
 * "Keep your friends close and your elbows closer."  -[Priit Mihkelson](https://www.defensivebjj.com/)
-* Just try to keep your elbow and your knee connected.  If they can't get into the space between those two, they can't pass.
+* From [Christian Graugart's](https://www.bjjheroes.com/bjj-fighters/christian-graugart) [White Belt Survival Course](https://www.youtube.com/watch?v=vOznf6T9B8I):
+  * To defend you need to protect your knee to chest space.  When you attack you want to get into their knee chest space.
+  * Keep your hair higher than your butt
+  * When attacking always try to get their arms up/elbows out.  Always think abou their armpits.
 * On offense try to eliminate space, on defense try to make space.
+* Just try to keep your elbow and your knee connected.  If they can't get into the space between those two, they can't pass.
 
 # Hygiene
 
@@ -110,13 +116,12 @@ A little known secret of jiu-jitsu:  50% of the time is spent working on techniq
 * Shower as soon as is reasonable after every session.
 * Advice from dermatologist [Dr. Clayton Green](https://podcast.bjjmentalmodels.com/243161/episodes/11222643-ep-198-skincare-for-bjj-feat-dr-clayton-green):
   * Wash with a gentle soap.  Bar soap is generally better than liquid.  Dove is a good brand
-  * Apply a lotion that you have to scoop, after you shower. My personal favorite is [CeraVe](https://www.cerave.com/skincare/moisturizers/moisturizing-cream)
+  * After you shower apply a lotion that you have to scoop. My personal preference is [CeraVe](https://www.cerave.com/skincare/moisturizers/moisturizing-cream)
 
 # Videos
 
-* I think it's this one https://www.youtube.com/watch?v=vOznf6T9B8I
-* Lachlan Giles Introductory course https://submeta.io/@lachlangiles/courses/introduction
-* Chris Paines https://www.youtube.com/watch?v=BWitv9AKoNU
+* [Lachlan Giles](https://www.bjjheroes.com/bjj-fighters/lachlan-giles) has his excellent platform, [Submeta](https://submeta.io).  The [Introductory course](https://submeta.io/@lachlangiles/courses/introduction) is 4.5 hours long.  You do have to signup for the platform, but the course is free so it doesn't cost you anything. 
+* You spend so much time just trying to defend, why wouldn't you want to watch [Chris Paines'](https://www.youtube.com/c/ChrisPainesBJJ) [How to Defend Everything](https://www.youtube.com/watch?v=BWitv9AKoNU)?
 
 
 # Resources
