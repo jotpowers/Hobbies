@@ -14,7 +14,7 @@ That being said, I tend to be pretty analytical, and people say my game is "tech
 When I say something is "always" true, you should recognize that [60% of the time it's true 100% of the time](https://www.youtube.com/watch?v=IKiSPUc2Jck&t=80s).  Which is to say it's mostly true, and true enough when you're starting out that you can take it as an absolute.  When you begin to learn better, you'll know enough that you're no longer reading this and you can laugh at the naivete.  
 :::
 
-# Starting Out
+## Starting Out
 
 When you start out it is overwhelming.  You feel like you're fighting for your life and you learn about some technique, and when you go to implement it, you can't remember any of the pieces and the pieces you can remember don't even work.  Small children are climbing all over you like you're some sort of incompetent jungle-gym and you're flopping around like a like a wounded mackrel.  Don't worry, that's normal.
 
@@ -26,9 +26,9 @@ After two years I felt like I could start to recognize the importance of underst
 
 After three years I felt like "insert something here when I get to three years".
 
-# How to Speed Up Your Progress
+## How to Speed Up Your Progress
 
-## If the "Room" Gets Better, You'll Get Better
+### If the "Room" Gets Better, You'll Get Better
 
 So you need to be a great training partner.  This is really difficult to do when you're starting out because you feel like the only way you ever "win" is if you go really hard.  If that is all you do though, you have an increased likelyhood to get injured, injure your training partners, and fail to understand why techniques work.  Every injury results in a loss of ability to train.  If you're not training, you're not going to get better.  
 
@@ -36,13 +36,13 @@ Prioritize avoiding injuries for everyone.  Are they going to happen?  Yes.  But
 
 This directly leads me to...
 
-## Tapping is not Losing
+### Tapping is not Losing
 
 I distinctly remember the moment that I internalized this.  I was rolling with one of my regular training partners who is better, younger, faster, and more athletic than I am.  He'd shot up a pretty good triangle that I defended and slowly managed to work my way out of.  But, at the end of that, I ended up underneath him in some sort of weird position where neither of us had anything and it was going to be an odd scramble.  So, I tapped.  I just wanted to reset so that we could go back to practicing jiu-jitsu instead of just spazzing out in our pyjamas.
 
 Instead, think of tapping as saying:  "I don't feel like I'm going to learn what I need to where we are, and I want to reset."  Sure, sometimes that includes me being in a fully locked-in bow and arrow.  But other times it's just "I wanted to work on closed guard escapes and now we're in spider guard so I'm not learning what I want from this position."  
 
-## Use Your Words
+### Use Your Words
 
 I can not emphasize enough how stupid I felt when I realized this was a secret shortcut.  Seriously, if you want to get better, generally you just need to ask people to help you with what you're trying to accomplish and they're almost always willing to do it!
 
@@ -60,15 +60,15 @@ Let me give you some concrete examples:
 * Specific training win conditions are all the way to submission but you want to work on the position
   * _Let's just work on this position.  If we're not making progress do you mind if we just reset?_
 
-## Take Notes
+### Take Notes
 
 Do you leave the gym and and can't remember the three techniques you practiced, much less the details?  Starting writing them down right after practice.  Go buy a small notebook and right after practice, just write everything down.  It forces you to think through each of the techniques and try to remember the details. It doesn't even matter if you go back and re-read them, the simple process of [writing it down will likely help you progress faster](https://www.npr.org/sections/health-shots/2024/05/11/1250529661/handwriting-cursive-typing-schools-learning-brain).
 
-## Create Secret Win Conditions
+### Create Secret Win Conditions
 
 You're going to spend a long time being bad.  If you're small, it's even worse, because you're going to spend a long time being bad **AND** getting smashed.  So create some secret goals that are your win conditions.  As an example, there was a period of time where I felt I was giving up arm bars all the time.  So, I just started a week with the goal of "I will not give up any arm bars this week."  I think I ended up giving up two that week.  I got submitted all sorts of other ways, but not armbars.  That made that week a success for me, and everyone needs some wins.
 
-## Solve Problems Instead of Collecting Techniques
+### Solve Problems Instead of Collecting Techniques
 
 Now is the time, like [all older people](https://www.youtube.com/watch?v=tJ-LivK4-78), for me to rail against the evils of social media.  Every time I see some technique on TikFaceGramSter I think the same thing:
 
@@ -84,7 +84,7 @@ Another example is how a lot of us end up working on [Lockdown](https://www.yout
 
 You'll get better trying to solve problems than you will just collecting techniques.
 
-## Get More Reps by Practicing Small Pieces
+### Get More Reps by Practicing Small Pieces
 
 Going back to the "Use Your Words" section, if you want to get better at something you should set win conditions that get you the most reps possible.  The best way to do this is to ask a partner to work on something, and set a "win condition" that allows for as may reps as possible.  
 
@@ -104,11 +104,11 @@ The fact is that there are no magic techniques.  *But*, there are some general t
 * From [Christian Graugart's](https://www.bjjheroes.com/bjj-fighters/christian-graugart) [White Belt Survival Course](https://www.youtube.com/watch?v=vOznf6T9B8I):
   * To defend you need to protect your knee to chest space.  When you attack you want to get into their knee chest space.
   * Keep your hair higher than your butt
-  * When attacking always try to get their arms up/elbows out.  Always think abou their armpits.
+  * When attacking always try to get their arms up/elbows out.  Always think about their armpits.
 * On offense try to eliminate space, on defense try to make space.
 * Just try to keep your elbow and your knee connected.  If they can't get into the space between those two, they can't pass.
 
-# Hygiene
+## Hygiene
 
 A little known secret of jiu-jitsu:  50% of the time is spent working on technique, and the other 50% of the time is spent on laundry.
 
@@ -118,29 +118,26 @@ A little known secret of jiu-jitsu:  50% of the time is spent working on techniq
   * Wash with a gentle soap.  Bar soap is generally better than liquid.  Dove is a good brand
   * After you shower apply a lotion that you have to scoop. My personal preference is [CeraVe](https://www.cerave.com/skincare/moisturizers/moisturizing-cream)
 
-# Videos
+## Resources
+
+## Videos
 
 * [Lachlan Giles](https://www.bjjheroes.com/bjj-fighters/lachlan-giles) has his excellent platform, [Submeta](https://submeta.io).  The [Introductory course](https://submeta.io/@lachlangiles/courses/introduction) is 4.5 hours long.  You do have to signup for the platform, but the course is free so it doesn't cost you anything. 
 * You spend so much time just trying to defend, why wouldn't you want to watch [Chris Paines'](https://www.youtube.com/c/ChrisPainesBJJ) [How to Defend Everything](https://www.youtube.com/watch?v=BWitv9AKoNU)?
 
-
-# Resources
-
-## Podcasts
+### Podcasts
 
 * [BJJ Mental Models](https://www.bjjmentalmodels.com/podcast)
 * [I Suck At Jiu Jitsu](https://open.spotify.com/show/3xEFgc72GKW5ftojiMYpSOv)
 * I'm also morally obligated to suggest [The Jiu-Jitsu Mindset](https://open.spotify.com/show/0TsZ2w9qk5X96rVgwRXfEm)
 
-## To Be Added
+### To Be Added
 
 * start with one thing from every position... then move to two.
-* find the running man video
 * inside lane
 * henry akins relax
 * half-guard is best guard
 * You're doing specific training, but you have a question on a certain position that the person you're working with is good at.
-
 
 ## License
 
