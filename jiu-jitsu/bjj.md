@@ -1,7 +1,7 @@
 ---
 id: bjj
 title: Brazilian Jiu-Jitsu
-sidebar_label: BJJ
+sidebar_label: Basics
 ---
 
 ![AI Generated BJJ Belt Genius](../assets/bjj-belt-winner-banner.jpeg)
@@ -26,6 +26,26 @@ After two years I felt like I could start to recognize the importance of underst
 
 After three years I felt like "insert something here when I get to three years".
 
+## "All you need to remember is one thing..." 
+
+It was incredibly helpful to me to have one of my early instructors tell me:
+
+>If you can only remember one thing, remember that half-guard is a battle for the underhook.
+
+Was it true?  Absolutely.  It's just after a while you realize you can remember **two** things, so you progress.  In theory you get to the point you can remember a lot of things.  In theory.
+
+The fact is that there are no magic techniques.  *But*, there are some general things that you can do that will help you survive a little longer until you get the mat hours in you need.
+
+### List of "One Things"
+
+* Just try to keep your elbow and your knee connected.  If they can't get into the space between those two, they can't pass.
+* "Keep your friends close and your elbows closer."  - [Priit Mihkelson](https://www.defensivebjj.com/)
+* From [Christian Graugart's](https://www.bjjheroes.com/bjj-fighters/christian-graugart) [White Belt Survival Course](https://www.youtube.com/watch?v=vOznf6T9B8I):
+  * To defend you need to protect your knee to chest space.  When you attack you want to get into their knee chest space.
+  * Keep your hair higher than your butt
+  * When attacking always try to get their arms up/elbows out.  Always think about their armpits.
+* On offense try to eliminate space, on defense try to make space.
+
 ## How to Speed Up Your Progress
 
 ### If the "Room" Gets Better, You'll Get Better
@@ -40,7 +60,7 @@ This directly leads me to...
 
 I distinctly remember the moment that I internalized this.  I was rolling with one of my regular training partners who is better, younger, faster, and more athletic than I am.  He'd shot up a pretty good triangle that I defended and slowly managed to work my way out of.  But, at the end of that, I ended up underneath him in some sort of weird position where neither of us had anything and it was going to be an odd scramble.  So, I tapped.  I just wanted to reset so that we could go back to practicing jiu-jitsu instead of just spazzing out in our pyjamas.
 
-Instead, think of tapping as saying:  "I don't feel like I'm going to learn what I need to where we are, and I want to reset."  Sure, sometimes that includes me being in a fully locked-in bow and arrow.  But other times it's just "I wanted to work on closed guard escapes and now we're in spider guard so I'm not learning what I want from this position."  
+Instead, think of tapping as saying:  "I don't feel like I'm going to learn what I need to where we are, and I want to reset."  Sure, sometimes that includes me being in a fully locked-in bow-and-arrow,  but other times it's just "I wanted to work on closed guard escapes and now we're in spider guard so I'm not learning what I want from this position."  
 
 ### Use Your Words
 
@@ -54,11 +74,16 @@ Let me give you some concrete examples:
 * You're a smaller person and the only person to pair up with is huge.
   * _We can roll, but I don't want to end up underneath you._
 
+* Specific training win conditions are all the way to submission but you want to work on the position
+  * _Let's just work on this position.  If we're not making progress do you mind if we just reset?_
+
 * You're injured but still want to roll
   * _My back is a hot mess, so we have to go super easy.  Does that work for you?_
 
-* Specific training win conditions are all the way to submission but you want to work on the position
-  * _Let's just work on this position.  If we're not making progress do you mind if we just reset?_
+:::warning
+... but then you have to roll easy!  Don't be that "Let's go easy" jackhole that then starts putting on can-openers.
+:::
+
 
 ### Take Notes
 
@@ -80,7 +105,7 @@ Instead I think you should focus on problems you're having and what techniques c
 
 As an example, from open guard I've recently been really struggling against people who can get to headquarters or start a knee cut pass.  I find that I end up trying to defend that with Reverse De La Riva (RLDR), but I don't really know how to make that effective.  So, I've spent time working on RLDR because it now is easier to learn because it's the the context of something I'm trying to fix.
 
-Another example is how a lot of us end up working on [Lockdown](https://www.youtube.com/watch?v=3f2Qkpb98WI) as a way to respond to getting smashed in half guard. 
+Another example is how a lot of us end up working on [Lockdown](https://www.youtube.com/watch?v=3f2Qkpb98WI) as a way to respond to getting smashed in half guard bottom.
 
 You'll get better trying to solve problems than you will just collecting techniques.
 
@@ -93,20 +118,6 @@ The first place I feel like I really worked on this was side control.  I hated s
 :::tip
 This will generally go better and be more well received if you're starting in the inferior position. So, asking someone to help you with _bottom_ side control is easier than asking them to work with you in _top_ side control.  After you earn a reputation of really wanting to learn, people will be more willing to let you work on the superior position.
 :::
-
-## Specific Tactical Techniques
-
-"This is all well and good, but I really need to know the techniques that will help me get better!"  -White Belt You
-
-The fact is that there are no magic techniques.  *But*, there are some general things that you can do that will help you survive a little longer until you get the mat hours in you need.
-
-* "Keep your friends close and your elbows closer."  -[Priit Mihkelson](https://www.defensivebjj.com/)
-* From [Christian Graugart's](https://www.bjjheroes.com/bjj-fighters/christian-graugart) [White Belt Survival Course](https://www.youtube.com/watch?v=vOznf6T9B8I):
-  * To defend you need to protect your knee to chest space.  When you attack you want to get into their knee chest space.
-  * Keep your hair higher than your butt
-  * When attacking always try to get their arms up/elbows out.  Always think about their armpits.
-* On offense try to eliminate space, on defense try to make space.
-* Just try to keep your elbow and your knee connected.  If they can't get into the space between those two, they can't pass.
 
 ## Hygiene
 
