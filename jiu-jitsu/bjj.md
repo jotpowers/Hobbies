@@ -24,11 +24,11 @@ After a year, you probably know the various positions and know how to get submit
 
 After two years I felt like I could start to recognize the importance of understanding details.  Could I execute on them?  Heck no.  Could I recognize them in the moment?  Of course not.  But I could recognize them as being important.
 
+After two and half years, the game slowed down enough that, during a roll, I could plan on what **wrong** move to do next.
+
 :::note
 So, about details.  I think it's far more productive to think about details as "What problem were you encountering that this detail solved?"  Maybe that detail doesn't matter to you because you're huge, so a small person's detail doesn't matter.  If you ask it this way instead, you can learn the "Why" that will allow you to figure that out.
 :::
-
-After two and half years, the game slowed down enough that, during a roll, I could plan on what **wrong** move to do next.
 
 ## "All you need to remember is one thing..." 
 
