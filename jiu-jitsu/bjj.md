@@ -38,6 +38,10 @@ It was incredibly helpful to me to have one of my early instructors tell me:
 
 Was it true?  Absolutely.  It's just after a while you realize you can remember **two** things, so you progress.  In theory you get to the point you can remember a lot of things.  In theory.
 
+:::note
+If you can remember two things about half-guard, remember to control that far arm, before it cross faces you into obvlivion.
+:::
+
 The fact is that there are no magic techniques.  *But*, there are some general things that you can do that will help you survive a little longer until you get the mat hours in you need.
 
 ### List of "One Things"
@@ -95,7 +99,9 @@ Do you leave the gym and and can't remember the three techniques you practiced, 
 
 ### Create Secret Win Conditions
 
-You're going to spend a long time being bad.  If you're small, it's even worse, because you're going to spend a long time being bad **AND** getting smashed.  So create some secret goals that are your win conditions.  As an example, there was a period of time where I felt I was giving up arm bars all the time.  So, I just started a week with the goal of "I will not give up any arm bars this week."  I think I ended up giving up two that week.  I got submitted all sorts of other ways, but not armbars.  That made that week a success for me, and everyone needs some wins.
+You're going to spend a long time being bad.  If you're small, it's even worse, because you're going to spend a long time being bad **AND** getting smashed.  So create some secret goals that are your win conditions.  
+
+As an example, there was a period of time where I felt I was giving up arm bars all the time.  So, I just started a week with the goal of "I will not give up any arm bars this week."  I think I ended up giving up two that week.  I got submitted all sorts of other ways, but not armbars.  That made that week a success for me, and everyone needs some wins.
 
 ### Solve Problems Instead of Collecting Techniques
 
@@ -151,8 +157,12 @@ A little known secret of jiu-jitsu:  50% of the time is spent working on techniq
 * start with one thing from every position... then move to two.
 * inside lane
 * henry akins relax
+    * [Side control](https://www.youtube.com/watch?v=0N3Njr98-w0) 
+    * [Relax](https://www.youtube.com/watch?v=Fk1oULbfdScA) 
 * half-guard is best guard
 * You're doing specific training, but you have a question on a certain position that the person you're working with is good at.
+* where the carotid arteries are
+* Link to Kirk's golden nuggets
 
 ## License
 
